@@ -19,10 +19,10 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> INSERT CATCHY TAG LINE HERE </h1>
+                <h1 className={classes.subtitle}> Navigate the World through International Relations </h1>
                 <div className={classes.introduction}>
                 <p>
-                    This is a good place to write what your course is about!  Dinosaurs? Neural Networks? LSTM? How to do taxes and not get bored? Write it here!   
+                Hey there! Welcome to our online international relations course – where learning knows no bounds! Our vision is pretty straightforward but super impactful: we want every international relations student and enthusiast to be able to dive into the fascinating world of global affairs whenever and wherever they fancy. We believe in breaking down barriers to education, and that's why we are dedicated to providing a comprehensive and accessible study guide that transcends geographical and financial constraints.   
                 </p>
                 </div>
             </section>

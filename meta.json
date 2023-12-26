@@ -1,15 +1,15 @@
 {
-    "courseId": "course-starter-python",
-    "title": "My cool online course",
+    "courseId": "course-international-relations",
+    "title": "International Relations for all!",
     "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
+    "description": "Spanning five courses, we delve into social science concepts, modern world history, and Indonesia's unique perspective. Explore international trade, business, and security, equipping yourself with research methods and understanding diplomacy. Analyze developed countries' foreign policies, explore international law, and unravel the global economic architecture. Conclude by focusing on Indonesia's trade policy, East Asian regional integration, and global trade diplomacy. Join us on this intellectual odyssey to deepen your understanding of the intricate dynamics shaping our globalized world",
+    "bio": "Hey there, I'm Cantikaputri Febrianti, a 2022 graduate from Bina Nusantara University, Jakarta, with a major in International Relations. My fascination lies in parliamentary diplomacy and the broader spectrum of international affairs. Dreaming of becoming an IR lecturer, I'm on a mission to decode the intricate dynamics shaping our interconnected world.",
     "siteUrl": "https://course-starter-python.netlify.com",
-    "twitter": "spacy_io",
+    "twitter": "xxcylops",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "from wasabi import Printer\n__msg__ = Printer()\n__solution__ = \"\"\"${solution}\"\"\"\n\n${solution}\n\n${test}\n\ntry:\n    test()\nexcept AssertionError as e:\n    __msg__.fail(e)",
     "juniper": {
-        "repo": "ines/course-starter-python",
+        "repo": "cantikapf/international-relations-study-guide",
         "branch": "binder",
         "lang": "python",
         "kernelType": "python3",
@@ -17,9 +17,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
+        { "text": "Website", "url": "https://cantikaportfolio.site/" },
         { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
+        { "text": "Built with ♥", "url": "https://github.com/cantikapf/international-relations-study-guide" }
     ],
     "theme": "#de7878"
 }

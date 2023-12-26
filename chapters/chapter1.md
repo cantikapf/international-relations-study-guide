@@ -1,61 +1,70 @@
 ---
-title: 'Chapter 1: Getting started'
+title: 'Chapter 1: Introuduction to International Relations'
 description:
-  'This chapter will teach you about many cool things and introduce you to the
-  most important concepts of the course.'
+  'This chapter will teach you the basic of International Relations study that will be important for later course'
 prev: null
 next: /chapter2
 type: chapter
-id: 1
+id: 2
 ---
 
-<exercise id="1" title="Introduction" type="slides">
+<exercise id="01_01" title="Study Of International Relations" type="slides">
 
 <slides source="chapter1_01_introduction">
 </slides>
 
 </exercise>
 
-<exercise id="2" title="Getting Started">
+<exercise id="01_02" title="Globalization And Global Politics" type="slides">
 
-Let's ask some questions about the slides. Whats the correct answer?
-
-<choice>
-<opt text="Answer one">
-
-This is not the correct answer.
-
-</opt>
-
-<opt text="Answer two" correct="true">
-
-Good job!
-
-</opt>
-
-<opt text="Answer three">
-
-This is not correct either.
-
-</opt>
-</choice>
-
+<slides source="chapter1_02_globalization">
+</slides>
 </exercise>
 
-<exercise id="3" title="First steps">
+<exercise id="01_03" title="Realism In International Relations" type="slides">
 
-This is a code exercise. The content can be formatted in simple Markdown – so
-you can have **bold text**, `code` or [links](https://spacy.io) or lists, like
-the one for the instructions below.
+<slides source="chapter1_03_realism">
+</slides>
+</exercise>
 
-- These are instructions and they can have bullet points.
-- The code block below will look for the files `exc_01_03`, `solution_01_03` and
-  `test_01_03` in `/exercises`.
+<exercise id="01_04" title="Liberalism In International Relations" type="slides">
 
-<codeblock id="01_03">
+<slides source="chapter1_04_liberalism">
+</slides>
+</exercise>
 
-This is a hint.
+<exercise id="01_05" title="Structuralism/globalism In International Relations" type="slides">
 
-</codeblock>
+<slides source="chapter1_05_structuralism">
+</slides>
+</exercise>
 
+<exercise id="01_06" title="Constructivism In International Relations" type="slides">
+
+<slides source="chapter1_06_constructivism">
+</slides>
+</exercise>
+
+<exercise id="01_07" title="Global Finance And Global Trade As Agendas" type="slides">
+
+<slides source="chapter1_07_finance">
+</slides>
+</exercise>
+
+<exercise id="01_08" title="Global Environment As Agendas" type="slides">
+
+<slides source="chapter1_08_environment">
+</slides>
+</exercise>
+
+<exercise id="01_09" title="Global Security Issues" type="slides">
+
+<slides source="chapter1_09_security">
+</slides>
+</exercise>
+
+<exercise id="01_10" title="Regionalism In International Affairs" type="slides">
+
+<slides source="chapter1_10_regionalism">
+</slides>
 </exercise>
