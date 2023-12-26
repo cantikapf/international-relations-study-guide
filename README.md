@@ -4,6 +4,8 @@
 
 This is free online course for International Relations major. Use it as your study guide. It's not intended to become references. For study only.
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66861a3d-1f65-41d1-948a-aea1809f2d83/deploy-status)](https://app.netlify.com/sites/international-relations-studyguide/deploys)
+
 ---
 
 ### Reference used in this course (update regularly)
