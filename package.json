@@ -1,9 +1,9 @@
 {
-    "name": "course-starter-python",
+    "name": "course-starter",
     "private": true,
-    "description": "Starter package to build interactive Python courses",
+    "description": "International Relations study guide",
     "version": "0.0.1",
-    "author": "Ines Montani <ines@explosion.ai>",
+    "author": "Cantikaputri Febrianti <cantikapf.7@gmail.com>",
     "dependencies": {
         "@illinois/react-use-local-storage": "^1.1.0",
         "@jupyterlab/outputarea": "^0.19.1",
