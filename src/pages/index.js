@@ -19,10 +19,10 @@ export default ({ data }) => {
             <Logo className={classes.logo} aria-label={siteMetadata.title} />
 
             <section>
-                <h1 className={classes.subtitle}> Navigate the World through International Relations </h1>
+                <h1 className={classes.subtitle}> ✨ Everyone Can Learn International Relations ✨ </h1>
                 <div className={classes.introduction}>
                 <p>
-                Hey there! Welcome to our online international relations course – where learning knows no bounds! Our vision is pretty straightforward but super impactful: we want every international relations student and enthusiast to be able to dive into the fascinating world of global affairs whenever and wherever they fancy. We believe in breaking down barriers to education, and that's why we are dedicated to providing a comprehensive and accessible study guide that transcends geographical and financial constraints.   
+                Hey there! Welcome to this online international relations course – where learning knows no bounds! This study guide is designed to be accessible to everyone, regardless of your background or prior knowledge. This study guide intended to be your companion while studying International Relations. It is not a replacement for your textbook or lecture notes, but rather a supplement to help you understand the concepts and theories that you will encounter in your studies.
                 </p>
                 </div>
             </section>
