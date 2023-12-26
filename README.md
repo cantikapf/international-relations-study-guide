@@ -49,3 +49,7 @@ Osiander, A. (2001). Sovereignty, International Relations, and the Westphalian M
 The Economist. (2017, April 1). Is China challenging the United States for global leadership? The Economist. https://www.economist.com/china/2017/04/01/is-china-challenging-the-united-states-for-global-leadership
 
 Wimmer, A., & Feinstein, Y. (2010). The Rise of the Nation-State across the World, 1816 to 2001. American Sociological Review, 75(5), 764–790. https://doi.org/10.1177/0003122410382639
+
+---
+
+<p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
