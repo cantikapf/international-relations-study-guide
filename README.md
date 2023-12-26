@@ -2,9 +2,17 @@
 
 ---
 
-This is free online course for International Relations major. Use it as your study guide. It's not intended to become references. For study only.
+This is a free online course on International Relations topics. Use it as your study guide. **It's not intended to become references**. Perfect for self-study.
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/66861a3d-1f65-41d1-948a-aea1809f2d83/deploy-status)](https://app.netlify.com/sites/international-relations-studyguide/deploys)
+
+---
+
+Build using this [template](https://github.com/ines/course-starter-python) and deploy with Netlify
+
+To deploy with Netlify with the template, make sure to make ```.nvmrc``` file and write ```10.13.0``` in the file. 
+
+If you deploy it in Netlify with Git Hub, change the **Runtime** in **Build Setting** from Gatsby to no selection (you can change it after the first deployment). Then, add Environment Variables with ```SHARP_IGNORE_GLOBAL_LIBVIPS``` in the key section and ```true``` in the values.
 
 ---
 
