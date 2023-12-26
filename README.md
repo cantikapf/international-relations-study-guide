@@ -1,4 +1,4 @@
-### Fork from Spacy's [course template](https://github.com/ines/course-starter-python)
+### Fork from [Spacy's course template](https://github.com/ines/course-starter-python)
 
 ---
 
