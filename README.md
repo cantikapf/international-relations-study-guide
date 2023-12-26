@@ -12,7 +12,13 @@ Build using this [template](https://github.com/ines/course-starter-python) and d
 
 To deploy with Netlify with the template, make sure to make ```.nvmrc``` file and write ```10.13.0``` in the file. 
 
-If you deploy it in Netlify with Git Hub, change the **Runtime** in **Build Setting** from Gatsby to no selection (you can change it after the first deployment). Then, add Environment Variables with ```SHARP_IGNORE_GLOBAL_LIBVIPS``` in the key section and ```true``` in the values.
+If you deploy it in Netlify with Git Hub, change the **Runtime** in **Build Setting** from Gatsby to no selection (you can change it after the first deployment). 
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/D1ftH68/Screenshot-2023-12-27-005718.png" alt="Screenshot-2023-12-27-005718" border="0"></a>
+
+Then, add Environment Variables with ```SHARP_IGNORE_GLOBAL_LIBVIPS``` in the key section and ```true``` in the values. And finally, ```Generate Public Deploy Key``` in **Continous deployment** menu.
+
+<a href="https://ibb.co/BLCy91d"><img src="https://i.ibb.co/nrL7FWZ/Screenshot-2023-12-27-010037.png" alt="Screenshot-2023-12-27-010037" border="0"></a>
 
 ---
 
