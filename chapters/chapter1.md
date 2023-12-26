@@ -1,7 +1,7 @@
 ---
 title: 'Chapter 1: Introuduction to International Relations'
 description:
-  'This chapter will teach you the basic of International Relations study that will be important for later course'
+  'This chapter will cover the basic of International Relations study that will be important for later course'
 prev: null
 next: /chapter2
 type: chapter
