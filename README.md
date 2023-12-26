@@ -6,7 +6,7 @@ This is free online course for International Relations major. Use it as your stu
 
 ---
 
-## Reference used in this course (update regularly)
+### Reference used in this course (update regularly)
 
 Chen, D. (2017, February 27). Is China Ready for Global Leadership? [Online News]. The Diplomat. https://thediplomat.com/2017/02/is-china-ready-for-global-leadership/
 
