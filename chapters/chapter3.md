@@ -10,9 +10,6 @@ id: 3
 
 <exercise id="1" title="Why History Matters?">
 
-
----
-
 History, with all its intricacies and nuances, serves as an indispensable foundation for comprehending the complex dynamics of international relations in today's interconnected world. As the repository of humanity's experiences, triumphs, and tribulations throughout the ages, the study of history provides crucial context and insights that shape our understanding of modern diplomacy, politics, conflicts, and global affairs.  
 
 Although examining historical narratives inevitably involves grappling with subjectivity and inherent biases, the wealth of information on past interactions and events equips us with the perspective and knowledge needed to better navigate the present. Beyond just understanding the current global landscape, history also influences foreign policy, economic relations between nations, and the power balances that emerge on the international stage. Ultimately, historical analysis fosters greater dialogue and cooperation globally by revealing shared challenges and experiences that unite societies across borders and cultures. For these reasons, history remains essential to unraveling and engaging with the intricacies of the modern world order.
