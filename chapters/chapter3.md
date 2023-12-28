@@ -340,10 +340,117 @@ The interstate system's origins and principles provide context for current geopo
 
 </exercise>
 
-<exercise id="4" title="The Road to the First World War" type="slides">
+<exercise id="4" title="The Road to the First World War">
 
-<slides source="chapter3_04_beforeWW1">
-</slides>
+## Introduction 
+
+The path to World War I was paved by a complex web of factors that turned a regional dispute in the Balkans into a global conflagration. Alliances, imperialism, militarism, nationalism, and industrialization all contributed to the tensions that exploded into full-scale war in 1914. The crisscrossing nature of European alliances meant that the assassination of Archduke Franz Ferdinand in Sarajevo triggered a domino effect, with the major powers drawn into the war through the defense pacts they had signed. The Great Powers of Europe, including Britain, France, Germany, Austria-Hungary and Russia, had been preparing for a large-scale war for years through massive military buildups and aggressive foreign policies aimed at expanding their colonial empires. The cultivation of strident nationalism by political elites further ratcheted up tensions between countries and created a population eager for war. New technologies like the machine gun and railroad heightened confidence in offensive battlefield strategies. Ultimately, the combination of these complex factors created a powder keg in Europe that was ignited by the spark of an assassination in 1914.
+
+## Alliances
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/dHSQAEam2yc?si=fPfPie66TRWS8lzg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+Alliances bound European nations in complex webs of agreements in the early 20th century. The two major opposing alliances were the Triple Entente and the Triple Alliance. 
+
+The Triple Entente consisted of Russia, France, and Britain. Russia aligned with France out of a mutual distrust and history of conflict with Germany and Austria-Hungary. Britain later joined to counter rising German naval power. The Triple Entente pledged support to each other if attacked.
+
+The Triple Alliance consisted of Germany, Austria-Hungary, and Italy. Bismarck originally established this alliance to isolate France diplomatically after the Franco-Prussian war. Italy was promised territorial gains from Austria-Hungary to secure their participation. However, Italy left the Triple Alliance in 1914 due to disputes over territory.
+
+Tensions escalated as the alliances turned into rival blocs. When Austria-Hungary declared war on Serbia after the assassination of Archduke Ferdinand, it triggered a domino effect of military mobilizations and declarations of war within the alliances. Russia mobilized to support Serbia, Germany declared war on Russia, and France was brought into the war based on their alliance with Russia. The complex web of alliances was a major factor leading to the outbreak of the first global war.
+
+## Imperialism
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/Mun1dKkc_As?si=2Vf8etKmkh2_VvbC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+Intense competition between European nations fueled imperialism in the late 19th and early 20th centuries. This was characterized by the aggressive pursuit and acquisition of colonies, particularly by major powers like Britain, France, Germany, Italy and Belgium. 
+
+Colonies provided imperialist countries access to raw materials, new markets for manufactured goods, and opportunities for investment. The "Scramble for Africa" is illustrative, as European powers carved up the continent into areas of control and exploitation. By 1900, 10% of Africa was under European control - by 1914 it had jumped to 90%.
+
+There was prestige associated with amassing colonies as well. expanding one's empire signaled national vitality and status on the global stage. As the Ottoman and Austro-Hungarian empires declined, new powers like Italy and Germany sought to assert themselves by acquiring colonial territories. 
+
+Colonization was often justified via Social Darwinism and racist ideologies positing inherent European superiority over indigenous peoples. But competition between European powers for land and resources fostered tensions and rivalries. Disputes over control of colonies, especially in Africa, contributed to the complex web of grievances that helped spark World War I. Clearly imperialism, though motivated by economic and nationalist factors, carried a heavy price.
+
+## Militarism Fuels the Arms Race
+
+In the late 19th and early 20th century, militarism emerged as a powerful force across Europe. Militarism refers to the tendency of nations to buildup strong military capabilities and readiness to use war to achieve political aims and expand national power. 
+
+Several factors contributed to the rise of militarism in the years leading up to World War I. As nationalist sentiment grew, countries sought to increase their military might and project an image of strength both domestically and internationally. The intense competition between great powers like Britain and Germany led both nations to rapidly expand their armies and navies. By 1914, Germany had the largest standing army in Europe. Russia also doubled the size of its army between 1870 and 1914 in an effort to modernize and exert greater influence.
+
+The resulting arms race amplified tensions and mistrust between nations. Each country tried to outpace the military growth of potential adversaries. France increased the length of mandatory military service from 2 to 3 years in order to keep pace with Germany's swelling ranks. Britain made substantial naval investments to maintain its domination of the seas, while Germany raced to expand its naval capabilities and ship production. This competition between the British and German navies was a major source of antagonism in the years prior to the war.  
+
+The geopolitical landscape was therefore shaped by the growing militarization across Europe. The buildup of offensive forces, rise in military expenditures, and pursuit of strategic advantages through arms escalation increased the likelihood of a military confrontation. The intense and unstable environment bred by militarism set the stage for the devastating global conflict that followed.
+
+## Pride, Independence, and Nationalism
+
+Nationalism, characterized by a strong sense of pride for one's country and desire for independence, was a major factor leading up to World War I. As European empires continued expanding their reach globally, many ethnic groups under imperial rule began seeking autonomy. 
+
+This growing nationalism fueled independence movements and led to conflicts between ethnic groups and their imperial rulers. For example, as the Austro-Hungarian Empire grew, annexing territories like Bosnia-Herzegovina, nationalist sentiments surged within Slavic groups seeking self-determination. 
+
+The desire for independent nation-states among ethnic groups in direct opposition to imperialist pursuits was a powder keg ready to explode. This nationalist zeal to throw off imperial control and establish sovereign states played a significant role in the tensions preceding World War I.
+
+Key factors highlighting the role of nationalism include:
+
+- The unification and rise of Germany fanned intense nationalist pride. Germany sought to assert itself and rival other European powers.
+- In Russia, pan-Slavism gained traction, positioning Russia as the defender of Slavic peoples against Austro-Hungarian and Ottoman control. 
+- Italy's late unification fueled nationalist ambitions to acquire Italian-speaking territories under Austria-Hungary's control. 
+- Within Austria-Hungary, the empire struggled to placate nationalist movements from ethnic groups like Czechs, Slovaks, Poles, and Southern Slavs seeking self-governance.
+- The Balkans remained a hotbed of nationalist unrest against Ottoman and Austro-Hungarian authority, with the desire for South Slavic unification.
+
+As disparate ethnic groups demanded national self-determination, the stage was set for conflict between empires seeking to maintain dominance over territories clamoring for independence. This precarious landscape of surging nationalism and colliding imperial aims played a pivotal role in the origins of the First World War.
+
+## Assassination of Archduke
+
+The assassination of Archduke Franz Ferdinand was the immediate trigger that led to the outbreak of World War I. On June 28, 1914, the heir to the Austro-Hungarian Empire, Archduke Franz Ferdinand, was visiting Sarajevo with his wife Sophie. During their procession through the city, Serbian nationalist Gavrilo Princip shot and killed both the Archduke and Sophie. 
+
+Princip was part of a secret Serbian nationalist group called the Black Hand that wanted Bosnia to become part of Serbia. Bosnia had a large Serb population and had historically been under Serbian control, but had recently been annexed by Austria-Hungary. This angered Serbian nationalists who saw it as a threat to a Greater Serbia. 
+
+The assassination set off a rapid chain of events, with Austria-Hungary quickly blaming Serbia for the attack. On July 28, Austria-Hungary declared war on Serbia. This caused Russia, an ally of Serbia, to begin mobilization of its forces. Germany then declared war on Russia. Based on interlocking alliances, soon all the major powers of Europe were drawn into the expanding conflict that marked the start of the First World War.
+
+The killing of the heir to the Austro-Hungarian throne was the spark that unleashed these tensions between rival powers and set the stage for a devastating war on a scale never seen before in human history. The assassination revealed the instability created by militarism, imperialism, nationalism and a complex web of alliances in early 20th century Europe.
+
+## Declarations of War Mark Formal Beginning
+
+The assassination of Archduke Franz Ferdinand was the trigger that led to the start of the First World War. In response to the assassination, Austria-Hungary declared war on Serbia on July 28, 1914. This declaration drew in Germany, Russia, France, and Britain due to the intricate web of alliances that had been established.
+
+Germany declared war on Russia on August 1, 1914 to support its ally Austria-Hungary. Russia had pledged to protect Serbia from Austria-Hungary. On August 3, Germany declared war on France, aiming for a quick victory by invading through neutral Belgium. Britain entered the war on August 4, 1914 due to being allied with France and Russia. 
+
+These declarations of war by the major powers marked the formal beginning of World War I, with Germany and Austria-Hungary on one side, and France, Russia, and Britain on the other. The Central Powers and Triple Entente were now locked in a massive global conflict that would last over four years and result in unprecedented loss of life and destruction across Europe and beyond.
+
+## Invasion of Belgium
+
+The war began on August 4, 1914, when Germany invaded neutral Belgium as part of its wider plan to attack France by outflanking its defenses along the French-German border. The German invasion of Belgium, known as The Rape of Belgium, violated Belgium's neutrality, which had been guaranteed by the Treaty of London in 1839. Though Belgium had declared its neutrality and intended to defend it, its small military was vastly outmatched by the larger German force. 
+
+The German High Command justified the invasion as a matter of military necessity, asserting it did not intend to annex Belgian territory but rather use it as a route into France. They also accused Belgium of being more favorably inclined toward the Triple Entente. However, the German invasion outraged public opinion and helped galvanize British support for entering the war. The day after the invasion, Britain sent Germany an ultimatum to withdraw from Belgium, which was ignored. Britain then declared war on Germany on August 4, marking its official entry into World War I. 
+
+Over the next few weeks, the German army advanced through Belgium, occupying Brussels by August 20, 1914. They met stiff Belgian resistance, including at the Battle of Liège, but the small and outdated Belgian army was unable to halt the German offensive. Stories of German atrocities against Belgian civilians, such as massacring civilians and burning villages, emerged during this invasion, later known as "The Rape of Belgium." These news reports further hardened public opinion against Germany. Ultimately, the German plan to invade France through Belgium succeeded as intended, but at a massive human cost that helped turn world opinion against Germany.
+
+## US Neutrality
+
+Although World War I began in Europe, it eventually spread globally, forcing the previously neutral United States to declare its stance. When Austria-Hungary officially declared war against Serbia on July 28, 1914, a domino effect of war declarations followed over the next several days and weeks between the alliance members. 
+
+The United States, under President Woodrow Wilson, made an official declaration of neutrality on August 4, 1914. This declaration from Wilson stated that the U.S. would remain impartial in action and thought toward the belligerents and avoid all actions or policies that would favor any one power. Wilson urged Americans to be neutral in conduct and judgment to avoid embroiling the nation into the European conflict.
+
+The Neutrality Proclamation also asked U.S. citizens to refrain from taking part in aiding any belligerent nation. Despite the intention of remaining officially neutral, the U.S. did continue trade with both sides early in the war. Over time, however, British naval blockades severely hampered trade with Germany and stoked tensions between the U.S. and Germany over freedom of the seas.
+
+Although neutral at the start, the U.S. eventually entered World War I in 1917 on the side of the Allies after repeated German provocations and the infamous Zimmerman Telegram. America's initial neutrality was short-lived due to the global nature of the conflict.
+
+## Conclusion
+
+The outbreak of World War I can be attributed to a complex interplay of factors that had been simmering beneath the surface of early 20th century Europe. Key among these were the rise of nationalist movements, the web of alliances between major powers, imperialistic expansion, and an escalating arms race. 
+
+With the fervent spread of nationalism, ethnic groups sought autonomy from multinational empires. This fervor was met with resistance from imperial rulers, creating friction. At the same time, major European powers had divided themselves into opposing diplomatic blocs through a series of mutual defense alliances. Meanwhile, imperial competition led nations to build up their militaries and expand their colonial reach. 
+
+The assassination of Archduke Franz Ferdinand became the immediate trigger that ignited these interconnected tensions. Austria-Hungary declared war on Serbia, backed by Germany. Russia came to Serbia's defense based on Slavic ties and their own conflict with Austria-Hungary. France and Britain entered based on their alignments. 
+
+Within weeks, the major powers of Europe were drawn into a massive conflict as a result of their imperial ambitions, military escalations, nationalist movements, and complex web of alliances. The Great War had begun, fueled by this mixture of long-building and immediate factors. Its outcome and aftermath would dramatically reshape Europe and the world.
 
 </exercise>
 
@@ -762,10 +869,147 @@ In essence, Carr's concept of the 'Twenty-Year Crisis' underscores how the inter
 
 </exercise>
 
-<exercise id="8" title="On the Brink of the Second World War" type="slides">
+<exercise id="8" title="On the Brink of the Second World War">
 
-<slides source="chapter3_08_beforeWW2">
-</slides>
+## Introduction
+
+World War II was the deadliest global military conflict in history. Lasting from 1939 to 1945, the war engulfed over 30 countries and resulted in between 50 to over 80 million fatalities. Adolf Hitler’s invasion of Poland on September 1, 1939 officially started the war in Europe. In response, Britain and France declared war on Germany two days later. The fighting soon expanded to include much of Europe, North Africa, and Asia. By the time the war ended in 1945, it directly involved more than 100 million military personnel, including the armies, navies, and air forces of the major powers.
+
+In addition to armed forces, World War II heavily relied on other resources like industrial power, financing, and scientific capabilities of nations. New technologies profoundly shaped tactics and strategy. German forces pioneered the use of Blitzkrieg (“lightning war”) that emphasized speed and surprise. Allied and Axis powers alike engaged in strategic bombing campaigns that targeted civilian and industrial sites. Chemical weapons were employed as well as nuclear ones, with the atomic bombings of Hiroshima and Nagasaki effectively ending the war in the Pacific.
+
+The key Allied Powers included **Britain, France, the Soviet Union, the United States, and China**. The Axis Powers, led by **Germany, Italy, and Japan**, sought territorial expansion and to redress what they saw as unfair post-World War I treaties. Much of continental Europe quickly fell under Nazi Germany's control, while Imperial Japan gained significant ground in East Asia. The tide turned after the Allies achieved victories against Italy and Germany's key ally Japan in 1943. By early 1945, Allied forces had reclaimed most of the territories seized by Axis countries. On May 8, 1945, the Allies formally accepted Nazi Germany's unconditional surrender, marking the end of the war in Europe. Japan surrendered on September 2, 1945 following the nuclear bombings of Hiroshima and Nagasaki.
+
+World War II reshaped political and ethnic boundaries globally and ushered in the Cold War era. Its immense destruction and loss of life traumatized generations. The moral issues raised by the Holocaust, use of atomic weapons, war crimes, and civilian bombings sparked intense debate. Yet, the war also led to collective security through the United Nations, modern human rights concepts, and movements to prevent future genocide.
+
+## Unresolved Issues from WWI
+
+The unresolved issues stemming from the Treaty of Versailles after World War I were a major contributing factor to the outbreak of World War II. Germany in particular harbored deep resentment over the harsh terms of the treaty, which required the country to accept full responsibility for causing the war. 
+
+The Treaty of Versailles forced Germany to pay heavy financial reparations, give up territory, and limit its military strength. These punitive measures left many Germans feeling humiliated. Political parties like the Nazis were able to exploit this widespread bitterness by promising to overturn the treaty and restore Germany's national pride.
+
+Adolf Hitler frequently railed against the Treaty of Versailles in his speeches, using it to stoke nationalism and anti-Allied sentiments among the German public. When Hitler rose to power in the 1930s, he began systematically dismantling the treaty's constraints on German rearmament. This raised international tensions and fueled distrust between Germany and the Allied powers of France and Britain.
+
+Overall, the resentment and instability bred by the Treaty of Versailles created a volatile political climate in Germany that paved the way for the aggression displayed by Hitler's regime. By the late 1930s, the treaty was essentially defunct, having failed to produce a lasting peace. Germany's invasion of Poland in 1939 marked its final repudiation, plunging Europe back into war just two decades after the end of World War I.
+
+## Rise of Authoritarian Regimes
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/_uk_6vfqwTA?si=vDtZ6xDKcXKwhXD2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+The rise of authoritarian regimes in Italy and Germany played a major role in setting the stage for World War II. These regimes embraced ideologies and policies that emphasized extreme nationalism, militarism, and territorial expansionism. This aggressive posturing created an environment conducive to war in Europe.
+
+In Italy, Benito Mussolini rose to power in 1922 as the leader of the Fascist party. Italian Fascism exalted the nation state and promoted the supremacy of Italy in the Mediterranean region. Mussolini consolidated his dictatorship through intimidation and repression of political opponents. He forged a cult of personality and surrounded himself with Fascist loyalists. 
+
+Mussolini pursued an imperialist foreign policy, exemplified by the invasion and conquest of Ethiopia in 1935. He enacted economic policies that aimed to make Italy self-sufficient and militarily strong. The Fascist regime tried to mobilize the masses through propaganda and pageantry. Ultimately, Mussolini’s territorial ambitions aligned with those of Nazi Germany leading up to World War II.
+
+In Germany, Adolf Hitler became chancellor in 1933 and swiftly established a totalitarian dictatorship. Hitler's Nazi regime was predicated on tenets of racial supremacy, lebensraum (“living space”), and anti-Semitism. The Nazis suppressed dissent, purged political rivals, and created a pervasive police state.
+
+Hitler exploited lingering bitterness over the Treaty of Versailles and widespread economic insecurity to galvanize support. He escalated Germany’s rearmament in open defiance of the treaty's constraints. Hitler laid claim to nearby territories with ethnic German populations, annexing Austria and the Sudetenland of Czechoslovakia in 1938-1939. The Nazi regime's hunger for conquest was a driving factor behind the invasion of Poland in September 1939, marking the start of World War II.
+
+## Territorial Ambitions
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/fo2Rb9h788s?si=nr1giDe6NlObvYyl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+During the 1930s, expansionist territorial ambitions by fascist regimes in Italy and Germany significantly contributed to the start of World War II. These regimes emphasized aggressive nationalism and sought to extend their borders and spheres of influence. 
+
+In 1935, Mussolini's fascist Italy invaded Ethiopia in East Africa. Though the Ethiopians resisted, they were ultimately overpowered by Italy's modern weaponry including tanks and bombers. This demonstrated Italy's territorial ambitions under fascism and imperialist quest to control more land in Africa. Ethiopia was forced to surrender in 1936.
+
+Meanwhile, Hitler and the Nazi party promoted the concept of Lebensraum or "living space" which called for expanding German territory eastward into Eastern Europe and Russia. Hitler argued this additional territory was required for the growth of the German population. The need for Lebensraum was used to justify military aggression and invasions.
+
+Most significantly, Germany's invasion of neighboring Poland in September 1939 marked the start of World War II in Europe. The Nazis justified this by the need to reunite German territories separated after World War I. However, the invasion demonstrated the expansionist vision of Hitler and Nazi Germany's willingness to use military action to acquire more territory. This aggressive territorial ambition was a major precursor to the outbreak of the global conflict.
+
+## Failure of the League of Nations
+
+The League of Nations, established after World War I, failed in its goal to maintain world peace and prevent future global military conflict. There were several key reasons the League was unable to prevent the outbreak of World War II:
+
+- **Lack of enforcement power** - The League had no standing army and relied on member states for military support. However, the League had no authority to force states to take action against aggressors. This made the League dependent on the political will of members.
+
+- **Rise of aggressive authoritarian regimes** - The League was powerless in the face of militaristic regimes in Germany, Italy and Japan. Leaders like Hitler and Mussolini ignored the League as they pursued territorial ambitions. The League could not compel them to act otherwise.
+
+- **Reluctance of major powers** - Major powers like Britain, France and the US were reluctant to commit to collective security actions, undermining the League's authority. Their self-interest and isolationism precluded decisive action.
+
+- **Policy of appeasement** - Rather than stand up to acts of aggression, the League members pursued appeasement of expansionist regimes. Hitler's demands were accepted in hopes of avoiding all-out war. But this approach failed to restrain aggression.
+
+The failure of the League of Nations to halt military aggressions in the 1930s allowed tensions to escalate into global conflict. By not enforcing its decisions with unified determination, the League was powerless to prevent the onset of the deadliest war in human history.
+
+## Policy of Appeasement
+
+The policy of appeasement, most notably implemented by British Prime Minister Neville Chamberlain, was a major factor leading to World War II. Chamberlain strongly believed war needed to be avoided at all costs and that concessions to Hitler's demands were a necessary evil that would satisfy Germany's grievances from World War I and prevent further aggression.
+
+In 1938, Chamberlain negotiated the Munich Agreement, which allowed Germany to annex the Sudetenland region of Czechoslovakia. Hitler had demanded this area be given to Germany, claiming that the German-speaking population there was being mistreated. Chamberlain viewed appeasement as the only way to avoid another disastrous war. The Munich Agreement included Britain, France, Italy, and Germany - without any Czechoslovakian representation. 
+
+Chamberlain returned to Britain declaring he had secured "peace for our time," but the Munich Agreement only emboldened Hitler. Within six months, Hitler broke the pact and occupied the remainder of Czechoslovakia. It became clear that appeasement had failed completely. Hitler's territorial ambitions could not be satisfied through concessions and his true aim was aggressive expansion, no matter the cost.
+
+The policy of appeasement demonstrated the ineffectiveness of sacrificing principles to placate authoritarian regimes. Far from preventing war, appeasement allowed Germany, Italy, and Japan to pursue their militaristic goals unchecked right up until the outbreak of World War II.
+
+### The Anschluss and the Munich Crisis
+
+The annexation of Austria, known as the Anschluss, occurred in March 1938 when Hitler pressured Austria into unification with Germany. This violation of the Treaty of Versailles allowed Hitler to strengthen his power and set the stage for his expansionist policies.  
+
+In September 1938, the Munich Crisis emerged over the Sudetenland region of Czechoslovakia. The Sudetenland was home to a sizable German minority population, which Hitler demanded be ceded to Germany. To avoid war, British Prime Minister Neville Chamberlain engaged in appeasement by conceding to Hitler's demands in the Munich Agreement. Hitler had threatened to invade Czechoslovakia if his claims were not met. Chamberlain returned from Munich believing he had negotiated "peace for our time," but Hitler's appetite for conquest was only beginning. 
+
+The Anschluss and Munich Crisis reflected the failure of Allied powers to thwart Hitler's territorial ambitions. Despite Czechoslovakia's alliance with France, Chamberlain ultimately gave in to Hitler's threats. As Hitler gained land and power, war inched dangerously closer. Both events highlighted policy missteps that emboldened the Nazis to pursue further aggressive actions.
+
+## Rise of Adolf Hitler
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/ATlila3e9dM?si=tC9g4VcSPo_UhVUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+The rise of Adolf Hitler as leader of Nazi Germany was a pivotal factor leading to World War II in Europe. Hitler gained power during a period of political and economic turmoil following Germany's defeat in World War I. 
+
+Hitler was a skilled orator and propagandist, exploiting the climate of postwar humiliation, resentment, and economic depression. By scapegoating Jews and promising to restore German greatness, Hitler galvanized support and ascended through the ranks of the Nazi Party.
+
+Once in power, Hitler dismantled the democratic Weimar Republic and transformed Germany into a one-party totalitarian state. He propagated the racist ideology of Nazism, calling for Aryan racial purity and expansion of German Lebensraum or "living space". 
+
+Hitler enacted discriminatory laws against Jews, limited personal liberties, censored arts and media, and purged his political opponents in the Night of the Long Knives. He withdrew Germany from the League of Nations in 1933.
+
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/Dd1JUTA7Ijc?si=Fa8zBHWouMR3OMhP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+Hitler played on the German public's lingering outrage over post-WWI sanctions and humiliations like the Treaty of Versailles. By portraying himself as Germany's savior, he won widespread support.
+
+Unemployment exceeded 6 million when the Great Depression hit Germany in 1929. Hitler promised jobs through huge public works programs and military spending. This resonated with struggling workers and businesses.
+
+Through demagoguery, cunning manipulation of the masses, and shrewd use of propaganda, Hitler positioned himself as the strong leader Germany yearned for. This directly paved the path to WWII in Europe.
+
+## Invasion of Poland
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/x0APrdY0G3k?si=sr85P5j_GTviNUH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+The actual start of World War II is marked by Germany's invasion of Poland on September 1, 1939. This event came after months of escalating tensions and territorial demands made by Hitler. When Poland refused to concede any territory to Germany, Hitler put into motion his plans for an invasion using a new style of warfare called Blitzkrieg or "lightning war". 
+
+The Blitzkrieg tactics involved coordinated attacks by fast-moving ground troops, tanks, and aircraft. These mobile forces would penetrate enemy lines and strike quickly at rear areas before defenders could react. Air strikes and bombing would devastate targets and infrastructure ahead of ground forces. Radio communications allowed ground troops and aircraft to coordinate. This combination of speed, mobility, and air power made the Blitzkrieg highly effective in overwhelming conventional defensive positions.
+
+Against Poland, the Blitzkrieg was unleashed to devastating effect. 1.5 million German troops stormed over the Polish border, supported by tanks and 2,000 aircraft. The Luftwaffe bombed Polish cities and troops, destroying roads and railroads to hamper Polish movements. Panzer tank divisions punched through Polish defenses. The Polish army, though brave, was simply overwhelmed by Germany's concentrated firepower and mobility. Within a month, despite some determined counterattacks by Polish forces, Germany had occupied western Poland and surrounded the capital Warsaw.
+
+The invasion of Poland represents a crucial turning point in the start of World War II. Hitler's use of the new Blitzkrieg tactics provided a blueprint for Germany's successful invasions of other neighbors, at least in the early phase of the war. The fall of Poland also marked the failure of British and French attempts at deterrence diplomacy. Within days of the invasion, they declared war on Germany, though they had no immediate plans to directly aid Poland.
+
+## Conclusion
+
+World War II served as a watershed moment in world history, ultimately reshaping global politics and economics for decades to follow. The path to this catastrophic conflict was paved by a multitude of complex factors across the international landscape during the first half of the 20th century. 
+
+The unresolved political and economic issues stemming from World War I set the stage for simmering resentments and tensions between nations that would eventually boil over. The harsh terms of the Treaty of Versailles imposed on Germany fostered feelings of victimization and humiliation that leaders like Hitler expertly exploited. 
+
+The rise of totalitarian and fascist governments built on ideologies of extreme nationalism, racism, and militarism was a driving force behind the looming conflict. The aggressive expansionist and irredentist ambitions of leaders like Hitler and Hirohito, left unchecked by international bodies like the League of Nations, paved the way for military invasions and annexations of neighboring territories.
+
+Appeasement policies aimed at avoiding another large-scale war by acquiescing to the demands of expansionist powers ultimately failed, as concessions only led to emboldened aggression. The policy of isolationism adopted by some nations also allowed tensions to intensify unchecked across Europe and Asia.
+
+In the end, World War II was the destructive culmination of multiple complex factors - unresolved postwar grievances, economic turmoil, extreme ideologies, appeasement, and unchecked aggression between nations. The scale and impact of the ensuing global conflict would permanently alter the world order and shape international relations for decades to follow.
 
 </exercise>
 
@@ -1142,16 +1386,158 @@ In the 2000s, some called for a "Bretton Woods II" system to restore stability t
 
 </exercise>
 
-<exercise id="12" title="The Domino Theory and the Cold War" type="slides">
+<exercise id="12" title="When One Falls, They All Will Follow: The Domino Theory and the Cold War">
 
-<slides source="chapter3_12_coldwar">
-</slides>
+# Cold War in a Nutshell
+
+<br>
+
+
+<center>  
+
+### Part 1
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/I79TpDe3t2g?si=diYxQiUzggmV1jcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<br>
+<br>
+
+### Part 2
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OIYy32RuHao?si=aE-hk2MhAwFxWQvy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+## Potsdam Conference Sets Post-War Tone
+
+The Potsdam Conference from July 17 to August 2, 1945 set the tone for post-war Europe. Held near Berlin, the meeting included the "Big Three" allied leaders - U.S. President Harry S. Truman, British Prime Minister Winston Churchill (later replaced by Clement Attlee), and Soviet Premier Joseph Stalin. 
+
+The primary focus was the future of Germany and Eastern Europe following Germany's surrender a few months prior. Major outcomes included:
+
+- The division of defeated Germany into four occupied zones controlled by the allied powers. This included dividing Berlin among the four powers as well. 
+
+- Establishing policies for de-Nazification to rid German society of Nazi ideology. This included removing former Nazis from positions of power.
+
+- Setting up the legal framework for the Nuremberg Trials to hold Nazi leaders accountable for war crimes and crimes against humanity. Prominent Nazi figures would face justice through the International Military Tribunal at Nuremberg.
+
+The Potsdam Conference set the foundation for how Germany and Europe would be rebuilt post-war. It allowed the allied powers to implement occupation policies in their respective zones, aimed at stamping out Nazism for good. This came in contrast to the ineffective de-Nazification after World War I, which allowed Hitler's rise. The Nuremberg Trials also marked an unprecedented form of accountability for human rights violations perpetrated during the war.
+
+## The Marshall Plan
+
+After World War II, Europe was in ruins with destroyed infrastructure and economies in tatters. The United States feared that financial instability and poverty in Western Europe could lead to communist political victories. In response, Secretary of State George C. Marshall proposed the European Recovery Program, more commonly known as the Marshall Plan. 
+
+Officially enacted in 1948, the Marshall Plan provided over $12 billion of economic assistance to help rebuild Western European economies. The objectives were to modernize industry, remove trade barriers, and strengthen capitalism and democracy. It funded the rebuilding of factories, railroads, airports and other infrastructure needed for economic recovery. Food, raw materials and machinery were shipped to aid in production.
+
+The Marshall Plan was crucial in revitalizing Western Europe and preventing total economic collapse. It countered the influence of communism by alleviating desperate conditions that could foster political unrest. The influx of aid created loyal trade partners and robust markets for American exports. The resulting economic miracle was a striking contrast to the Soviet model, undermining communist ideology in Europe. While initially offered to Eastern bloc countries, Stalin prohibited their participation. 
+
+By the time it ended in 1951, the Marshall Plan had effectively rebuilt industrial powerhouses like West Germany, France and Italy. It laid the foundations for the eventual creation of the European Union. America's massive investment would pay political and economic dividends for years to come.
+
+## Berlin Blockade 
+
+After Germany's defeat in World War II, the country was divided into four occupied zones controlled by the Allied powers of the United States, Great Britain, France and the Soviet Union. Berlin, located deep in the Soviet sector, was also divided into four occupied zones. 
+
+In June 1948, the Soviets instituted a full blockade of West Berlin in an attempt to gain control of the entire city. All rail, road and water access was cut off by Soviet forces. In response, the United States and Great Britain organized a massive airlift operation to fly in the food, fuel and supplies needed by West Berlin's population of 2 million people.
+
+For nearly a year, American and British planes flew hundreds of thousands of flights into Tempelhof Airport, providing up to 13,000 tons of supplies to West Berlin each day. The Soviets had not expected such a sustained and successful response. On May 12, 1949, they lifted the blockade, and airlift operations began to wind down.
+
+The Berlin Blockade was an early Cold War crisis that increased tensions between the Western powers and the Soviet Union. It demonstrated American resolve to contain Soviet influence in Europe. The successful airlift operation showed the world that the Soviet blockade could be circumvented. The crisis ended in a victory for the West that led to the rapid unification of the three western occupation zones into West Germany in 1949.
+
+## NATO Formation Provides Western Alliance
+
+In April 1949, the North Atlantic Treaty Organization (NATO) was established as a collective defense alliance between Western powers. The catalyst was rising tensions with the Soviet Union and a desire to counterbalance the influence of the Warsaw Pact. 
+
+Led by the United States, NATO provided a formal alliance between North American and European countries. The original members included the US, Canada, Britain, France, Belgium, the Netherlands, Luxembourg, Norway, Denmark, Iceland, Italy, and Portugal. It marked a significant commitment by the US to European security.
+
+The treaty stipulated that an attack against any member would be considered an attack against all. This cemented an alliance against potential Soviet aggression. NATO reflected the era's preoccupation with containing communism. It still exists today as a prominent military alliance.
+
+## The Truman Doctrine
+
+The Truman Doctrine, outlined in a speech by President Harry S. Truman in 1947, marked a major foreign policy initiative aimed at containing the spread of communism worldwide. The doctrine pledged economic and military assistance to countries resisting communism. 
+
+Specifically, the Truman Doctrine authorized $400 million in aid to Greece and Turkey, which were under pressure from Soviet expansion and communist insurgents. Truman argued that if Greece and Turkey fell to communism, it could threaten countries across the Middle East and Western Europe. This reflected the **Domino Theory**, the belief that communist takeovers could spread rapidly from one nation to the next. The domino theory, a 20th-century foreign policy concept, speculated that if one land fell to communism, neighboring countries would follow suit in a domino effect.
+
+The Truman Doctrine thus signaled a stark departure from America's prior isolationist policies. Whereas the U.S. had formerly avoided major involvement in European affairs, the Truman Doctrine committed the United States to actively supporting anti-communist regimes worldwide. It reflected an effort by the U.S. to assume a larger role in global politics and use its influence to check the spread of Soviet power.
+
+The Truman Doctrine remained in effect long after the initial aid to Greece and Turkey. It provided the foundation for American intervention and nation-building efforts throughout the Cold War era, from the Korean War to the Vietnam War. The policy of communist containment dominated U.S. foreign policy for over four decades after Truman's declaration.
+
+## Korean War 
+
+The Korean War, which lasted from 1950 to 1953, marked an early military crisis of the Cold War as UN and US forces clashed with the Soviet-backed North Korean communist forces. The war began with North Korea's invasion of South Korea in June 1950, aiming to unify the peninsula under communism. 
+
+The UN, largely driven by the US, condemned the invasion and sent troops to defend South Korea under UN mandate. China later entered the war in support of North Korea while the Soviet Union provided military equipment and advisors. Fierce fighting occurred along the 38th parallel dividing North and South Korea as neither side gained a decisive advantage.
+
+After years of bloody stalemate and failed peace negotiations, the war ended in 1953 with an armistice that restored the border close to the 38th parallel. While no formal peace treaty was ever signed, the war solidified the division of Korea into communist North Korea and capitalist South Korea. It marked one of the first major eruptions of the Cold War outside of Europe, foreshadowing similar proxy wars to come.
+
+# The Space Race
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/xvaEvCNZymo?si=ap-CjU8N_enPX3s9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+
+The space race was a defining component of the Cold War, fueled by competing ideologies and the desire for technological superiority between the US and USSR. Both nations vied for dominance in space exploration, using it as a platform for propaganda and prestige.
+
+The origins of the space race can be traced back to the 1950s, when the Soviet Union launched Sputnik 1 in 1957 - the first artificial satellite to orbit Earth. This alarmed the US, who feared that the Soviets were gaining an edge in technological development. In response, the US created the National Aeronautics and Space Administration (NASA) in 1958 and announced plans to put the first man on the moon.
+
+The two superpowers continued their rivalry throughout the 1960s, investing heavily in competing space programs. The Soviets achieved many space firsts - launching the first man and woman into space with Vostok 1 and Vostok 6. But the US steadily closed the gap, successfully launching Mercury and Gemini missions.  
+
+The apex of the space race was the Apollo program, which aimed to fulfill President Kennedy's promise of putting an American on the moon by the end of the 1960s. Both sides poured massive resources into their efforts, but ultimately the US prevailed, when Apollo 11 accomplished the historic moon landing in 1969.
+
+The propaganda value of the space race was immense for both superpowers. It became a symbol of ideological and technological supremacy. The US could tout its capitalist democracy triumphing over the Soviets through innovation and teamwork. For the Soviets, it was a platform to showcase communism's ability to compete with the West.
+
+By the 1970s, the space race cooled with the advent of détente. But it left an enduring legacy, demonstrating the extremes of competition between contrasting world powers. The advancements drove technology and discovery but also fed Cold War posturing and rhetoric.
+
+## Cuban Missile Crisis
+
+In October 1962, tensions escalated to a critical point in the Cold War with discovery of the Cuban Missile Crisis. The Soviets were secretly planning to install nuclear missiles in Cuba which prompted a tense confrontation between the US and USSR that brought the world to the brink of nuclear war. 
+
+US reconnaissance flights revealed construction of missile launch facilities in Cuba. President Kennedy addressed the nation, demanding removal of the missiles and announcing a naval blockade until the missiles were dismantled and returned to the Soviet Union. Khrushchev initially denied the existence of missiles in Cuba but eventually agreed to remove them in exchange for a US pledge not to invade Cuba.
+
+The stakes were high with US missiles in Turkey pointed at the USSR and the new discovery of Soviet missiles capable of striking the US mainland from Cuba. Both sides feared the possibility of nuclear conflict arising from miscalculation or miscommunication. 
+
+Ultimately the crisis was resolved through intense negotiation and diplomacy. The US consented to publicly declare they would not invade Cuba and privately agreed to eventually remove missiles from Turkey. In exchange, the Soviets dismantled and withdrew their missiles from Cuba.
+
+The Cuban Missile Crisis marked the closest the Cold War came to escalating to direct nuclear conflict between the US and USSR. It demonstrated the dangers of nuclear brinkmanship but also showed that diplomacy could prevail, even when tensions were at their peak. This was a pivotal moment that eased Cold War tensions going forward.
+
+## Vietnam War
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/huRWshoW7T8?si=-uR2eXEg8DW2LCpY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
+Vietnam was a key Cold War proxy war between the United States and communist forces in North Vietnam and the Viet Cong in South Vietnam. The conflict reflected the adversary dynamic between democracy and communism during the Cold War era. 
+
+After French forces withdrew from Vietnam in the mid-1950s, the U.S. stepped in to support the anti-communist government in South Vietnam. However, North Vietnam sought to reunify the country under communism, supporting the communist Viet Cong insurgents in the south. This prompted direct U.S. military involvement beginning in the early 1960s under presidents Kennedy and Johnson.
+
+The Vietnam War was marked by asymmetric guerrilla warfare tactics used by the North Vietnamese and the Viet Cong against conventional U.S. forces. Jungle terrain and guerrilla ambushes nullified many U.S. advantages, plunging America into a military quagmire with growing casualties. The Viet Cong's guerrilla tactics demonstrated that conventional armies could be frustrated by irregular forces.
+
+Domestically, the protracted Vietnam War spurred massive anti-war protests driven by a counter-cultural movement among American youth. Nightly news footage of the grueling war turned public opinion against the conflict. The anti-war movement grew stronger through the 1960s, reflecting deep societal rifts caused by the unpopular war.
+
+After sustained setbacks and losses, the U.S. steadily withdrew combat forces and turned the ground war over the South Vietnamese. Direct U.S. involvement ended in 1973 after failed peace negotiations. Ultimately South Vietnam fell to communist forces in 1975, unifying Vietnam under communist control. The Vietnam War demonstrated the limits of U.S. power against unconventional warfare tactics in the Cold War era.
+
+## Conclusion
+
+The Cold War had a monumental impact on global affairs that continues to reverberate decades after its conclusion in 1991. Though the threat of direct nuclear war between the United States and Soviet Union was averted, the ideological and geopolitical struggle left a complex legacy.
+
+The period solidified the role of the United States as a global superpower and leader of the capitalist West. The creation of institutions like NATO and adoption of containment policies cemented the U.S. position against communism. Rivalry with the Soviet Union also fueled tremendous scientific and technological progress, exemplified by the space race which saw achievements like the first satellite launch and moon landing. 
+
+At the same time, the Cold War spawned bloody proxy conflicts in regions like Korea, Vietnam, and Latin America. Backing of dictators and insurgents to counter communism fostered long-term regional instability and anti-Western sentiment in some areas. Division of Europe by the Iron Curtain and construction of the Berlin Wall left scars on the continent. The threat of nuclear conflict also sparked an era of paranoia and security build up.
+
+The Cold War ultimately reshaped the global order. The collapse of the Soviet Union left the U.S. as the sole superpower for a time. It also opened the door for a new world order with growing multi-polarity and the rise of additional global powers like China. Echoes of Cold War tensions persist between Russia and the West over issues like Ukraine. While the direct confrontation ended, the Cold War's complex influences continue to shape international relations.
 
 </exercise>
 
 <exercise id="13" title="Cuban Missile Crisis">
 
 ## Introduction
+
+<br>
+
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/XbKCyQn5oTc?si=CXY3W2_K-pI7Vvf8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+
+<br>
 
 The nuclear arms race emerged as a fierce competition for nuclear supremacy between the United States and the Soviet Union during the Cold War. Originating from the development of the first nuclear weapon by the U.S. in World War II, the devastating impact of atomic bombs on Japan marked the beginning of a new era. While World War II concluded, the nuclear arms race persisted, signaling a heightened global threat. After World War II, the U.S. held a monopoly on nuclear knowledge and materials. However, the Soviet Union quickly closed the gap, detonating its first atomic bomb in 1949. This unexpected development initiated a nuclear arms race, intensifying tensions between the superpowers. The shift in the balance of power set the stage for an era defined by the possession and proliferation of nuclear weapons.
 

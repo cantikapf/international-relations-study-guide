@@ -1,22 +1,29 @@
-### Fork from [Spacy's course template](https://github.com/ines/course-starter-python)
-
----
+# ✨ International Relations Study Guide ✨
 
 This is a free online course on International Relations topics. Use it as your study guide. **It's not intended to become references**. Perfect for self-study.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/66861a3d-1f65-41d1-948a-aea1809f2d83/deploy-status)](https://app.netlify.com/sites/international-relations-studyguide/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/66861a3d-1f65-41d1-948a-aea1809f2d83/deploy-status)](https://app.netlify.com/sites/international-relations-studyguide/deploys) 
 
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/cantikapf/international-relations-study-guide)
 ---
 
-Build using this [template](https://github.com/ines/course-starter-python) and deploy with Netlify
+Build using this [course framework](https://github.com/ines/course-starter-python) made by [Ines](https://github.com/ines) and deployed with [Netlify](https://www.netlify.com/)
 
-To deploy with Netlify with the template, make sure to make ```.nvmrc``` file and write ```10.13.0``` in the file. 
+---
+### Deploy with Netlify
 
-If you deploy it in Netlify with Git Hub, change the **Runtime** in **Build Setting** from Gatsby to no selection (you can change it after the first deployment). 
+When I first deploy it with Netlify, I struggling to find a right way. If you also face the same problem like me, you can try this instruction below:
+
+**Error code 'Install dependencies': dependency_installation script returned non-zero exit code: 1**
+
+1. Make sure to make ```.nvmrc``` file and write ```10.13.0``` in the file. 
+2. If you deploy it in Netlify with Git Hub, change the **Runtime** in **Build Setting** from Gatsby to no selection (you can change it after the first deployment). 
 
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/D1ftH68/Screenshot-2023-12-27-005718.png" alt="Screenshot-2023-12-27-005718" border="0"></a>
 
-Then, add Environment Variables with ```SHARP_IGNORE_GLOBAL_LIBVIPS``` in the key section and ```true``` in the values. And finally, ```Generate Public Deploy Key``` in **Continous deployment** menu.
+**Error code 'Build failed due to a user error: Build script returned non-zero exit code: 2'**
+
+Add Environment Variables with ```SHARP_IGNORE_GLOBAL_LIBVIPS``` in the key section and ```true``` in the values. And finally, ```Generate Public Deploy Key``` in **Continous deployment** menu.
 
 <a href="https://ibb.co/BLCy91d"><img src="https://i.ibb.co/nrL7FWZ/Screenshot-2023-12-27-010037.png" alt="Screenshot-2023-12-27-010037" border="0"></a>
 
