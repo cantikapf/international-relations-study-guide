@@ -2,8 +2,8 @@
     "courseId": "course-international-relations",
     "title": "International Relations for all!",
     "slogan": "A free online course",
-    "description": "This platform offers a comprehensive and free curriculum designed to provide a structured study guide for individuals keen on delving into the realm of international relations.Designed with a focus on international relations, Asia, and Indonesia, this website aims to provide a structured learning path for those interested in this field. Whether you're a student or a curious mind, our courses are intended for study purposes, offering a wealth of knowledge without the need for external references.",
-    "bio": "Hi, I'm Cantika, a graduate from Bina Nusantara University in International Relations major. My fascination lies in parliamentary diplomacy and the broader spectrum of international affairs. Dreaming of becoming an IR researcher, I'm on a mission to decode the intricate dynamics shaping our interconnected world.",
+    "description": "<p>This platform offers a comprehensive and free course designed to provide a structured study guide for individuals keen on delving into the realm of international relations. Designed with a focus on international relations, Asia, and Indonesia, this website aims to provide a structured learning path for those interested in this field. Whether you're a student or a curious mind, our courses are intended for study purposes, offering a wealth of knowledge without the need for external references.</p><a rel='license' href='http://creativecommons.org/licenses/by/4.0'><img alt='Creative Commons License' src='https://i.creativecommons.org/l/by/4.0/88x31.png'/></a>",
+    "bio": "<p>Hi, I'm Cantika, a graduate from Bina Nusantara University in International Relations major. My fascination lies in parliamentary diplomacy and the broader spectrum of international affairs. When I first started my degree, I was overwhelmed by the amount of information I had to absorb. I was also confused about where to start. I hope this website can help you to get a better understanding of international relations and its related fields. If you have any questions, feel free to contact me through my website. Happy learning!</p>",
     "siteUrl": "https://international-relations-studyguide.netlify.app/",
     "twitter": "xxcylops",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
@@ -17,9 +17,11 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://cantikaportfolio.site/" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
-        { "text": "Material's Reference", "url": "https://github.com/cantikapf/international-relations-study-guide?tab=readme-ov-file#reference-used-in-this-course-update-regularly" }
+        { "text": "My Website", "url": "https://cantikaportfolio.site/" },
+        { "text": "Source Code on GitHub", "url": "https://github.com/cantikapf/international-relations-study-guide" },
+        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" },
+        { "text": "Material's Reference", "url": "https://github.com/cantikapf/international-relations-study-guide?tab=readme-ov-file#reference-used-in-this-course-update-regularly" },
+        { "text": "Contact me", "url": "https://cantikaportfolio.site/contact.html" }
     ],
     "theme": "#2596BE"
 }
