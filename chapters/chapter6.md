@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 5: Introduction To Security Studies of International Relations'
+title: 'Chapter 6: Introduction To Security Studies of International Relations'
 description:
   'Gain a foundational understanding of the core principles and theories in security studies, examining the historical context and evolution of security as a field of study and evaluate the role of institutions in international security, with a focus on their impact on conflict resolution, peacekeeping, and the development of global governance structures.'
 prev: /chapter4
