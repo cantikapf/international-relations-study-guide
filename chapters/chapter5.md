@@ -639,7 +639,7 @@ Rather, policymakers make independent judgments about the national interest and 
 
 <br>
 
-<center> <img src="modules\state-centered-approach.png]" alt="Keypoints" width="90%" /> </center>
+<center> <img src="modules\state-centered-approach.png" alt="Keypoints" width="90%" /> </center>
 
 <br>
 
