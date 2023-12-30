@@ -81,6 +81,14 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 - Warburton, E. (2016). Jokowi and the New Developmentalism. Bulletin of Indonesian Economic Studies, 52(3), 297–320. https://doi.org/10.1080/00074918.2016.1249262
 - Winters, J. A. (2016). Electoral Dynamics in Indonesia: Money Politics, Patronage and Clientelism at the Grassroots. Bulletin of Indonesian Economic Studies, 52(3), 405–409. https://doi.org/10.1080/00074918.2016.1236653
 
+**Introduction To International Political Economy (IPE)**
+
+- Anup Shah. (2010, August 22). A Primer on Neoliberalism. https://www.globalissues.org/article/39/a-primer-on-neoliberalism
+- Harvey, D. (2005). A Brief History of Neoliberalism. Oxford University Press. https://doi.org/10.1093/oso/9780199283262.001.0001
+- Martin, W. (2016, August 19). Nobel Prize-winning economist Stiglitz tells us why ‘neoliberalism is dead’. Business Insider. https://www.businessinsider.com/joseph-stiglitz-says-neoliberalism-is-dead-2016-8
+- Oatley, T. H. (2012). International political economy (5th ed). Longman.
+- Underhill, G. R. D. (2000). State, Market, and Global Political Economy: Genealogy of an (Inter-?) Discipline. International Affairs (Royal Institute of International Affairs 1944-), 76(4), 805–824.
+  
 
 ---
 
