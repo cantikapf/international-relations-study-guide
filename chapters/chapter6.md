@@ -747,11 +747,3 @@ Balancing human security with state security regarding population flows requires
 
 
 </exercise>
-
-<exercise id="10" title="Environmental Security"> 
-
-
-
-
- 
-</exercise>
