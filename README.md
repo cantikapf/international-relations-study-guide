@@ -89,6 +89,11 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 - Oatley, T. H. (2012). International political economy (5th ed). Longman.
 - Underhill, G. R. D. (2000). State, Market, and Global Political Economy: Genealogy of an (Inter-?) Discipline. International Affairs (Royal Institute of International Affairs 1944-), 76(4), 805–824.
   
+**Introduction To Security Studies in International Relations**
+
+- Buzan, B., & Hansen, L. (2011). The evolution of international security studies (Reprinted). Cambridge Univ. Press.
+- Dunn Cavelty, M., & Balzacq, T. (Eds.). (2017). Routledge handbook of security studies (Second edition). Routledge, Taylor & Francis Group.
+- Williams, P. D. (Ed.). (2018). Security studies: An introduction (Third edition). Routledge.
 
 ---
 
