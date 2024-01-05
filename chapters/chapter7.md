@@ -253,7 +253,7 @@ Therefore, Kant's liberal institutionalism acknowledges the realist view of an a
 
 <br>
 
-<center> <img src="modules\Kantian_triangle.png" alt="Kantian Triangle" width="70%" /> </center>
+<center> <img src="modules\Kantian_triangle.png" alt="Kantian Triangle" width="90%" /> </center>
 
 <br>
 
