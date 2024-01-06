@@ -538,7 +538,7 @@ Even with these problems, dependency theory has given us new ways to look at the
 
 </exercise>
 
-<exercise id="7" title="Power, Alliance, And Cooperation">  
+<exercise id="7" title="Constructivism">  
 
 
 
@@ -546,7 +546,7 @@ Even with these problems, dependency theory has given us new ways to look at the
 
 </exercise>
 
-<exercise id="8" title="Structuralism/globalism">  
+<exercise id="8" title="Domestic Politics: Two Level Games>  
 
 
 
@@ -554,40 +554,21 @@ Even with these problems, dependency theory has given us new ways to look at the
 
 </exercise>
 
-<exercise id="9" title="North-south, East-west">  
+<exercise id="9" title="Feminism">  
 
 
 
 
 </exercise>
 
-<exercise id="10" title="Constructivism">  
-
-
-
-
-
-
-</exercise>
-
-<exercise id="11" title="Norms And Identities In IR">  
-
-
+<exercise id="10" title="Rational Choice Theory ">  
 
 
 
 
 </exercise>
 
-<exercise id="12" title="Domestic Politics">  
-
-
-
-
-
-</exercise>
-
-<exercise id="13" title="Feminism">  
+<exercise id="11" title="Game Theory ">  
 
 
 
@@ -596,37 +577,11 @@ Even with these problems, dependency theory has given us new ways to look at the
 
 </exercise>
 
-<exercise id="14" title="Rational Choice Theory">  
+<exercise id="12" title="Critial Theory">  
 
 
 
 
 
 </exercise>
-
-<exercise id="15" title="Game Theory">  
-
-
-
-
-
-</exercise>
-
-<exercise id="16" title="Critical Theory">  
-
-
-
-
-
-
-</exercise>
-
-<exercise id="17" title="Non-western IR Theories">  
-
-
-
-
-
-</exercise>
-
 
