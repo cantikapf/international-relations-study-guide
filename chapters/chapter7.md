@@ -628,7 +628,7 @@ To sum up, the constructivist view of NATO expansion as international socializat
 
 </exercise>
 
-<exercise id="8" title="Domestic Politics: Two Level Games>  
+<exercise id="8" title="Domestic Politics: Two Level Games">  
 
 # What is two-level game?
 
@@ -652,7 +652,7 @@ The two-level game process, as proposed by Robert D. Putnam, involves two stages
 The process is sequential, with the requirement that any Level I agreement must be ratified at Level II, thereby creating a crucial theoretical link between the two levels. The size of the "win-set," which refers to the set of all possible Level I agreements that would gain the necessary majority among the constituents when simply voted up or down, is a key determinant of the possibility of reaching an agreement. The win-set depends on the distribution of power, preferences, and possible coalitions among Level II constituents, and it affects the likelihood of reaching an agreement and the distribution of joint gains from the international bargain.
 
 
-<center> <img src="modules\two-level game.png" alt="Two Level Game Process" width="95%" /> </center>
+<center> <img src="modules\two-level game.png" alt="Two Level Game Process" width="100%" /> </center>
 
 <br>
 
@@ -668,16 +668,14 @@ The concept of "win-set" in the two-level games theory is a crucial determinant 
 
 The ratification process does not guarantee the implementation of state agreements. The state has full authority to comply or disobey the agreement. There are 2 types of rejection:
 
-1. Voluntary Defection (based on state egoism)
+**Voluntary Defection (based on state egoism)**
 
 Voluntary defection in game theory refers to reneging by a **rational egoist** in the absence of enforceable contracts, as seen in the prisoner's dilemma and other dilemmas of collective action.
-
 The reason for this rejection makes the situation "the absence of hierarchy" a justification for all egoist state actions. For example: the US decision not to ratify the Kyoto Protocol seems legitimate even though environmental damage is getting worse due to industrialization.
 
-2. Involuntary Defection (the state's inability to fulfill the agreement)
+**Involuntary Defection (the state's inability to fulfill the agreement)**
 
 Involuntary defection refers to the behavior of an agent (states) who is unable to deliver on a promise because of failed ratification.
-
 
 </exercise>
 
