@@ -10,8 +10,6 @@ id: 6
 
 <exercise id="1" title="Introduction To International Relations Theories">  
 
-
-
 The study of international relations (IR) emerged as an academic discipline after World War I as scholars and practitioners sought to understand the conditions that led to the "World War" and how future wars could be prevented. Since then, IR has evolved from its early idealist roots into a diverse field encompassing multiple theoretical perspectives and methodological approaches.
 
 ## Ontology, Epistemology and Methodology 
@@ -96,23 +94,19 @@ There are divergent views on issues like objectivity, theory testing, and the re
 
 <exercise id="2" title="Classical Realism">  
 
-
-# Realism 
-
 - **Analytical units**: states as principal actor
 - **View of actors**: states as unitary actors
 - **Behavioral dynamics**: state is rational actors seeking to maximize its interest or national objectives in foreign policy
 - **Issues**: national security issues are most important
 
-**Classical Realism** tend to:
+Classical Realism tend to:
 1. Advocate holistic understanding of politics
 2. Recognize the close relationship of domestic and international
 3. Acknowledge the role of ethnics and community
 4. Regard history as cyclical
 
-Keyword: Groupism (alliance), Egoism (self-interest), Power-centrism (hegemony)
+**Keyword: Groupism (alliance), Egoism (self-interest), Power-centrism (hegemony)**
 
----
 ## Classical Realism Core Concepts
 
 Classical Realism introduces several key concepts that shape its worldview:
@@ -135,12 +129,12 @@ These interlinked concepts form the building blocks of how classical realists un
 
 Realism makes the following key assumptions about international relations:
 
-- States are the principal actors in international affairs. Realism views states as unitary, geographically defined entities that make rational decisions to maximize their security and power. States are the most important units in the global arena.
-- The international system is anarchic, lacking any overarching authority. Without a world government, states must ultimately rely on themselves to ensure their continued survival and interests. This creates an environment of self-help and uncertainty.
-- States seek to maximize their power and influence relative to others. Power is a means to an end of security and survival. States build up military and economic power to leverage their position and interests internationally.
-- The distribution of power is a defining feature of international politics. Realism focuses on the balance of power between states and alliances as a determining factor in international outcomes. Power dynamics constrain and shape state behavior.
-- Morality and ideology have little influence in global affairs. Realism maintains that states make foreign policy decisions based on calculations of power and self-interest, not ethical standards. Moral principles do not override strategic considerations.
-- Human nature is egoistic and power-driven. Realism has a pessimistic view of human nature, seeing it as inherently competitive and conflictual especially in international anarchy. This shapes how states interact.
+- **States are the principal actors in international affairs**. Realism views states as unitary, geographically defined entities that make rational decisions to maximize their security and power. States are the most important units in the global arena.
+- **The international system is anarchic, lacking any overarching authority**. Without a world government, states must ultimately rely on themselves to ensure their continued survival and interests. This creates an environment of self-help and uncertainty.
+- **States seek to maximize their power and influence relative to others**. Power is a means to an end of security and survival. States build up military and economic power to leverage their position and interests internationally.
+- **The distribution of power is a defining feature of international politics**. Realism focuses on the balance of power between states and alliances as a determining factor in international outcomes. Power dynamics constrain and shape state behavior.
+- **Morality and ideology have little influence in global affairs**. Realism maintains that states make foreign policy decisions based on calculations of power and self-interest, not ethical standards. Moral principles do not override strategic considerations.
+- **Human nature is egoistic and power-driven**. Realism has a pessimistic view of human nature, seeing it as inherently competitive and conflictual especially in international anarchy. This shapes how states interact.
 
 ## Expanding on Principles of Realism
 
@@ -219,8 +213,6 @@ The tragic aftermath of the Iraq War underscores key warnings from classical rea
 1. The belief in the rational qualities of individuals
 2. Faith in the feasibility of progress in the social life
 3. The conviction that humans, despite their self-interest, are able to cooperate and construct a more peaceful and harmonious society
-
----
 
 ## Three Set of Liberal Rights
 
@@ -436,13 +428,13 @@ The study of how institutions support cooperation - while imperfect - provides i
 
 Dependency theory emerged in the late 1950s and early 1960s as a critique of modernization theory and as a way to explain persistent underdevelopment in Latin America and other developing regions. 
 
-The theory arose in response to concerns that economic growth in the advanced industrialized countries did not necessarily lead to growth in the poorer countries. Dependency theorists argued that poverty in developing countries was not because they were "backward" or lacked the necessary cultural values for development, as modernization theorists claimed.
+The theory arose in response to concerns that **economic growth in the advanced industrialized countries did not necessarily lead to growth in the poorer countries**. Dependency theorists argued that **poverty in developing countries was not because they were "backward" or lacked the necessary cultural values for development**, as modernization theorists claimed.
 
-Instead, dependency theorists focused on the problem of exploitation of peripheral and semi-peripheral countries by the wealthy core countries. They suggested that Western colonization and economic dominance created a dependence that led to long-lasting patterns of poverty. 
+Instead, **dependency theorists focused on the problem of exploitation of peripheral and semi-peripheral countries by the wealthy core countries**. They suggested that Western colonization and economic dominance created a dependence that led to long-lasting patterns of poverty. 
 
 <br>
 
-<center> <img src="modules\world systen.png" alt="Worldwide Web" width="80%" /> </center>
+<center> <img src="modules\world systen.png" alt="Worldwide Web" width="50%" /> </center>
 
 <br>
 
@@ -617,11 +609,11 @@ The constructivist explanation addresses three main questions:
 
 The constructivist response to these questions is as follows:
 
-1. CEE countries have tried to find a new identity and a new "home" in the international system since the fall of the communist system in their own countries and around the world. It has become their main foreign policy goal to "return to Europe," with joining NATO being a big part of that. Not having to agree with all of the Western world's rules and values is not a requirement for the Central and Eastern European countries to want to join NATO
+- CEE countries have tried to find a new identity and a new "home" in the international system since the fall of the communist system in their own countries and around the world. It has become their main foreign policy goal to "return to Europe," with joining NATO being a big part of that. Not having to agree with all of the Western world's rules and values is not a requirement for the Central and Eastern European countries to want to join NATO
 
-2. NATO chose to grow to the east to support and strengthen democracy, liberal values, and multilateralism in the area. CEE countries want to join NATO, which encourages them to continue working on democratic reform and making their own systems more like those in other countries. They also want to handle international conflicts in this area peacefully, through multilateralism, and according to international law.
+- NATO chose to grow to the east to support and strengthen democracy, liberal values, and multilateralism in the area. CEE countries want to join NATO, which encourages them to continue working on democratic reform and making their own systems more like those in other countries. They also want to handle international conflicts in this area peacefully, through multilateralism, and according to international law.
 
-3. The Czech Republic, Hungary, and Poland were invited to join NATO because they shared the liberal values of the Western world, had internalized its core values well enough, and had behaved in line with those values for a certain amount of time. The constructivist hypothesis says that these countries' membership in NATO gave them a reason to keep working on democratic reform and solidify the changes they were already making to their own systems.
+- The Czech Republic, Hungary, and Poland were invited to join NATO because they shared the liberal values of the Western world, had internalized its core values well enough, and had behaved in line with those values for a certain amount of time. The constructivist hypothesis says that these countries' membership in NATO gave them a reason to keep working on democratic reform and solidify the changes they were already making to their own systems.
 
 To sum up, the constructivist view of NATO expansion as international socialization is based on the idea that countries **adopt community values and norms**, which causes them to change how they handle their own domestic and foreign policies. When compared to rationalist views, this one gives a more complete explanation for NATO's growth.
 
@@ -888,8 +880,8 @@ Example: Why states' attack each other and make World War I?
 **World Condition**
 1. In this world there are only two countries (for example, Germany and France)
 2. There are only 2 strategies in this game, namely **arming themselves** (defecting) or **disarming** (cooperating)
-3. Outcomes of the game:
 
+**Outcomes of the game**
 - A state arming themselves and the other's will disarming
 - All states' disarming (peace)
 - All states' arming themselves (lead to war)
