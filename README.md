@@ -95,6 +95,19 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 - Dunn Cavelty, M., & Balzacq, T. (Eds.). (2017). Routledge handbook of security studies (Second edition). Routledge, Taylor & Francis Group.
 - Williams, P. D. (Ed.). (2018). Security studies: An introduction (Third edition). Routledge.
 
+**Theories Of International Relations**
+
+- Agbebi, M., & Virtanen, P. (2017). Dependency Theory – A Conceptual Lens to Understand China’s Presence in Africa? Forum for Development Studies, 44(3), 429–451. https://doi.org/10.1080/08039410.2017.1281161
+- Duncan Snidal. (2002). Rational Choice and International Relations. In W. Carlsnaes, T. Risse, & B. Simmons, Handbook of International Relations. SAGE Publications Ltd. https://doi.org/10.4135/9781848608290
+- Dunne, T., Kurki, M., & Smith, S. (Eds.). (2016). International relations theories: Discipline and diversity (Fourth edition). Oxford University Press.
+- Jervis, R. (1988). Realism, Game Theory, and Cooperation. World Politics, 40(3), 317–349. https://doi.org/10.2307/2010216
+- Namkoong, Y. (1999). Dependency theory: Concepts, classifications, and criticisms. International Area Review, 2(1), 121–150.
+- Oxford University Press. (n.d.). Dunne, Kurki & Smith: International Relations Theories 4e Revision guide. Retrieved 5 January 2024, from http://global.oup.com/uk/orc/politics/ir_theory/dunne4e/student/revision/ch01/
+- Putnam, R. D. (1988). Diplomacy and Domestic Politics: The Logic of Two-Level Games. International Organization, 42(3), 427–460.
+- Schimmelfennig, F. (1998). Nato enlargement: A constructivist explanation. Security Studies, 8(2–3), 198–234. https://doi.org/10.1080/09636419808429378
+- Spindler, M. (2013). International Relations: A Self-Study Guide to Theory (1st ed.). Verlag Barbara Budrich. https://doi.org/10.2307/j.ctvdf09vd
+
+
 ---
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
