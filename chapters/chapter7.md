@@ -889,10 +889,11 @@ Example: Why states' attack each other and make World War I?
 1. In this world there are only two countries (for example, Germany and France)
 2. There are only 2 strategies in this game, namely **arming themselves** (defecting) or **disarming** (cooperating)
 3. Outcomes of the game:
-	- A state arming themselves and the other's will disarming
-	- All states' disarming (peace)
-	- All states' arming themselves (lead to war)
-	- A state disarming and the other's arming themselves
+
+- A state arming themselves and the other's will disarming
+- All states' disarming (peace)
+- All states' arming themselves (lead to war)
+- A state disarming and the other's arming themselves
 
 <br>
 
