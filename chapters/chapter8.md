@@ -705,53 +705,426 @@ Statistical validity examines the appropriateness of statistical tests used, acc
 
 </exercise>
 
-<exercise id="6" title="Research Question And Research Design">   
+<exercise id="6" title="Research Question">   
+
+# The Importance of the Research Question
+
+The research question is the fundamental core of a research project. It serves as the foundation on which the entire study is constructed. A clearly defined research question guides the researcher in multiple aspects of the study including determining the research design, methodology, data collection procedures, and analysis techniques.
+
+The research question identifies the primary aim and objectives that the study intends to address. It delineates the scope and provides direction for all stages of the research process. A well-formulated research question allows the researcher to determine the type of data needed, the approach to data collection, and how the information will be analyzed. It enables the researcher to stay focused on the main goals of the project throughout its duration.
+
+A well-crafted research question:
+
+- Defines the purpose and focus of the research project
+- Guides the research methodology and data collection
+- Helps determine the scope of research and resources required
+- Provides direction for data analysis
+- Structures the final research report
+
+In essence, the research question is the compass that steers the research ship towards its destination. It keeps the study on course and prevents deviation into tangential issues. All parts of the research plan from literature review to data interpretation should tie back directly to the central research question. A clear, concise, and thoughtful research question sets the stage for a successful research endeavor.
+
+# Research Question vs. Thesis Statement
+
+A research question and thesis statement have fundamental differences:
+
+- A research question asks about a problem or issue to explore. It identifies the purpose and goals for a research project. The question lays the foundation for the research by guiding the methodology and data collection.
+- A thesis statement, on the other hand, makes an argument and directly answers the research question. It is a concise statement that summarizes the central argument or claim of the paper. The thesis provides the direction and focus for the entire work.
+- In short, the research question asks what needs to be studied, while the thesis statement answers the research question with an argument and analysis. The research question comes before and helps develop the thesis statement.
+- For example, the research question may ask "Why did comics become darker in the 1980s?" After conducting research, the thesis statement would answer with an argument like "Comics became darker and more violent in the 1980s as writers expressed the cultural anxieties of the Reagan era." The thesis makes a specific claim supported by evidence to answer the broader research inquiry.
+- A research question guides the research process, while a thesis statement presents the conclusion of that research. The research question lays the foundation, while the thesis statement builds the house.
+
+# Good Research Question
+
+A good research question should:
+
+- Be clearly linked to the overall research project goal. The question should directly relate to the purpose and aims of the research. If the research aims to explore a certain phenomenon, the question should address that phenomenon.
+- Allow the target population to be identified. The question should indicate the specific group or subject to be studied. This helps determine the data sources needed and scope of the research.
+- Guide the appropriate data collection method and analysis. The question gives direction on how to obtain the relevant data and the type of analysis required. It influences decisions about the research design, such as whether interviews, surveys, or experiments are needed.
+- Identify the outcome variables and key predictors. The question points to the key factors and relationships to be measured and examined. This shapes how data is collected and analyzed.
+- Determine the scope and sample size needed. The specificity of the question indicates the breadth of data required and appropriate number of study participants. Broader questions require larger samples.
+- Raise additional questions about methodology. The question prompts thinking about the optimal ways to gather data and conduct the investigation. This guides choices made about specific research methods and tools.
 
 
+# Choosing Topics Appropriate to International Relations Research
+
+## Research Topics in International Relations - Overview
+
+International Relations (IR) is a diverse field that examines relationships between countries, interactions between governments, the role of international organizations, and the political dynamics between state and non-state actors. Some of the key topics examined in IR research include:
+
+- International security - Issues related to war, conflict, arms control, terrorism, etc.
+- International political economy - Trade, development, monetary policy, globalization, multinational corporations, etc.
+- Theories of power - Realism, liberalism, constructivism, Marxism, etc.
+- Foreign policy - How countries conduct diplomacy and make foreign policy decisions.
+- International conflict - Causes, escalation, management, and resolution of conflicts.
+- Military force - Strategic studies, nuclear weapons, asymmetric warfare.
+- Trade - Barriers, agreements, organizations like WTO, effects on development.
+- International organizations - United Nations, regional bodies, treaty regimes, non-governmental organizations.
+- International law - Laws governing state behavior, human rights, the environment, outer space, etc.
+- International development - Aid, sustainability, poverty reduction, microfinance, etc.
+- North-South relations - Interactions between developed and developing countries.
+
+## Example of The Differences Topics in Descriptive and Research Paper
+
+<center> <img src="modules\descriptive paper vs research paper.png" alt="descriptive paper vs research paper" width="70%" /> </center>
+
+<br>
+
+# Writing an Initial Subtopic Question
+
+The initial question is needed to guide preliminary, foundation-building research. Question-based research papers seek to unravel the puzzles associated with not readily apparent cause-and-effect relationships. When writing the initial research question, keep the following guidelines in mind:
+
+- Focus the question - Make sure the question is specific enough to guide focused research but not so narrow that you won't find enough information.
+- Avoid simple process/description questions - Don't ask questions that would result in projects that simply describe a process, an event, or terminology. For example "How do global markets operate?" or "What is comparative advantage?".
+- Ask a why or how question - Asking why or how something occurred leads to uncovering cause-and-effect relationships which make for more insightful research. For example "Why do states use trade barriers?" or "How do global markets benefit developing countries?".
+- Consider scope - Make sure the scope of the question is reasonable for the length of the intended research paper. Don't take on questions better suited for a dissertation if you are writing a class paper.
+- Point towards analysis - Choose a question that requires analytical thinking to answer rather than just gathering descriptive information.
+- Spark your interest - Pick a research question you are genuinely curious about and interested in studying further. Your passion will show in the final paper.
+
+**Example**
+
+<br>
+
+<center> <img src="modules\subtopic question example.png" alt="subtopic question example" width="70%" /> </center>
 
 </exercise>
 
-<exercise id="7" title="IR Research Method: Participant Observation">   
+<exercise id="7" title="Literature Review">   
 
+# Scholarly Literature and the Literature Review
 
+## Scholarly Literature
+
+Scholarly literature refers to research that is published in academic journals and books by experts in a particular field. It is different from more popular sources like newspapers, magazines, websites, and encyclopedias in several key ways:
+
+- **Purpose**: Scholarly literature aims to present new research, theories, methodologies, interpretations, or arguments to advance knowledge in a field. Popular sources provide general information for a broad audience.
+- **Authors**: Scholarly literature is written by scholars and researchers who are actively contributing new knowledge in their field. Popular sources may incorporate scholarly findings, but are not written by the original researchers.
+- **Audience**: Scholarly literature is aimed at other experts in the field. The writing assumes the reader has background knowledge and uses field-specific terminology. Popular sources target the general public.
+- **Editorial process**: Scholarly publications undergo extensive peer-review before being accepted for publication. This review verifies the validity, originality, and importance of the research. Popular sources do not have a comparable peer-review process.
+- **References**: Scholarly works always cite their sources and influences. References allow the reader to trace the evidence that leads to the author's conclusions. Popular sources may include occasional references.
+- **Systematic methodology**: Scholarly research follows well-defined protocols and rigorous methodologies designed to add reliable new findings to the knowledge base of the field. Popular writing does not produce new knowledge in this way.
+
+The major types of scholarly literature include:
+
+- **Journal articles**: Report on original research and experiments. The most prestigious journals rigorously peer-review submissions to uphold standards.
+- **Scholarly books**: In-depth studies on a topic that integrate the latest research findings. Academic presses oversee scholarly book publication.
+- **Edited books**: Anthologies of separately authored chapters focused on a theme or issue. Edited by experts who provide commentary.
+- **Conference papers**: Preliminary research presented at academic conferences and symposia before being revised for journal or book publication.
+
+Scholarly literature provides the theoretical background and research-based evidence needed to design rigorous studies and advance knowledge in a field. It is a foundational component of quality research across disciplines.
+
+## The Importance of Scholarly Literature
+
+Scholarly literature serves some key functions in the research process. Most importantly, reviewing prior scholarly work helps refine research questions and identify potential variables and hypotheses. The research questions drive the entire research project, so it's critical to harness the knowledge in existing literature to develop thoughtful and focused research questions.
+
+Additionally, the literature review establishes important connections between the proposed research and previous studies in the field. By thoroughly reviewing relevant scholarly work, researchers can show how their study fits into the existing body of knowledge. The literature review provides crucial background context and demonstrates how the new study expands on or departs from what has already been studied. In this way, the literature review helps to position new research studies in relation to prior knowledge.
+
+Overall, a strong review of scholarly literature brings clarity and direction to a research project. It enables researchers to leverage the insights and findings of previous studies to craft novel, relevant research questions that can advance knowledge in the field. The literature review is thus a vital stepping stone in developing impactful research.
+
+## Types of Scholarly Literature
+
+### Scholarly Journals
+Scholarly journals, also known as academic or peer-reviewed journals, are periodicals that publish original research articles written by experts in a specific discipline. The articles are written by scholars for other scholars. These journals go through a rigorous peer-review process, where other experts in the field review the articles before they are accepted for publication. This helps ensure the articles meet the journal's standards for quality research. Examples of scholarly journals in international relations include International Organization, International Studies Quarterly, and Foreign Affairs.
+
+### Peer-Reviewed Books
+Peer-reviewed books are scholarly books whose manuscripts have gone through review by other experts before being accepted for publication. University presses often publish peer-reviewed books. The peer-review process helps ensure the accuracy and quality of the research and writing. Examples of university presses that publish peer-reviewed books in international relations include Oxford University Press, Cambridge University Press, and Princeton University Press.
+
+### Edited Books
+Edited books contain chapters written by different authors on a central theme. The book editor solicits chapters from experts and coordinates the book's production. Edited books allow examination of a topic from diverse scholarly perspectives. Examples of edited books in international relations include Globalization and the Nation State and Critical Perspectives on the Responsibility to Protect.
+
+### Electronic Sources
+There are some high-quality scholarly electronic sources. These include scholarly articles available through academic databases like JSTOR and academic research repositories like SSRN. However, when evaluating electronic sources it's important to assess their credibility, accuracy, reputation, and currency. High-quality scholarly sources will provide citations and references. Examples of reputable scholarly blogs in international relations include Duck of Minerva and War on the Rocks.
+
+## How to determine whether an online article comes from a scholarly journal
+
+When reviewing online articles and sources, there are several indicators to look for to determine if the source comes from a credible, scholarly publication:
+
+### Level of Detail
+Scholarly sources will provide in-depth details, descriptions, and discussions of the topic at hand. They should demonstrate a comprehensive understanding of the subject rather than superficial summations.
+
+### Technical Language
+Scholarly publications utilize discipline-specific terminology and language conventions suited for an academic audience. The writing style and vocabulary will differ from more mainstream publications.
+
+### Explanation of Methodology
+Reputable scholarly articles will describe in detail the research methods, data collection, and analytical processes used by the authors. This allows readers to evaluate the rigor and validity of the study.
+
+### Citations
+Scholarly publications rely heavily on citations to reference existing literature, studies, data sources, and other evidentiary materials. Citations and references will be provided as footnotes, endnotes, or a bibliography.
+
+### Credible Authors
+The authors of scholarly publications will have academic credentials and expertise related to the research topic. Information about their background is typically provided.
+
+### Peer Review
+Scholarly journals utilize a peer review process where submissions are evaluated by expert reviewers to assess methodology, accuracy, and contribution to the field. Articles accepted have passed this rigorous vetting.
+
+# Reviewing the Literature
+
+## The Place of the Literature Review in Research
+
+The literature review provides important background for a research study. It establishes the links between the study being proposed and previous work that has already been done in the area. A good literature review shows how the findings of the study contribute to the existing body of knowledge in the field. It also helps integrate the new research findings into what is already known.
+
+The literature review helps bring clarity and focus to a research problem. By reviewing previous studies, the researcher learns what aspects of the topic have already been examined, what has been found, what gaps exist, and what suggestions have been made for further research. This helps the researcher focus their own study on areas where more information is needed.
+
+Reviewing previous literature also allows the researcher to improve their research method. The literature review reveals procedures, methods, and problems encountered in prior studies. This allows the researcher to select methods most likely to provide valid answers to the research questions.
+
+Additionally, the literature review expands the researcher's knowledge of the field and topic area. It is important to understand what other researchers have already found regarding similar questions and topics. This context helps the researcher see how their own findings fit into the existing knowledge base.
+
+## The Function of Literature Review in Our Own Study
+ 
+- When reviewing the literature we learn what aspects of our subject area have been examined by others, what they have found out about these aspects, what gaps they have identified and what suggestions they have made for further research.
+- Help us to focus our study on areas where there are gaps in the existing body of knowledge, thereby enhancing its relevance.
+- A literature review tells you if others have used procedures and methods similar to the ones that you are proposing, which procedures and methods have worked well for them and what problems they have faced with them.
+- By becoming aware of any problems and pitfalls, you will be better positioned to select a method that is capable of providing valid answers to your research question.
+- It is important that you know what other researchers have found in regard to the same or similar questions, what theories have been put forward and what gaps exist in the relevant body of knowledge.
+- Another important reason for doing a literature review is that it helps you to understand how the findings of your study fit into the existing body of knowledge
+
+## Literature search and review on your topic
+
+- Literature search and review on your topic
+	- What are the key theories, concepts and ideas?
+	- What are the epistemological and ontological grounds for the discipline?
+	- What are the main questions and problems that have been addressed to date?
+	- How is knowledge on the topic structured and organised?
+	- What are the origins and definitions of the topic? 
+	- What are the political standpoints?
+	- What are the major issues and debates about the topic? 
+	- What are the key sources?
+
+# How to Review the Literature
+
+## Four Steps Involved in Conducting a Literature Review
+ 
+- Searching for the existing literature in your area of study
+
+The first step is to search for existing literature related to your research area or topic. This involves identifying appropriate databases, journals, reference works, and other potential sources of information. It's important to use effective search strategies, including identifying key search terms, Boolean operators, and relevant subject headings. Cast a wide net initially before narrowing your search criteria.
+
+- Reviewing the selected literature.
+
+Once you've gathered a set of potentially relevant sources, the next step is to review them thoroughly. As you review each source, consider the theories presented, methodologies used, findings reported, limitations noted, and conclusions drawn. Take detailed notes and begin identifying themes and important issues that recur across sources. Look for areas of agreement and disagreement within the existing literature.
+
+- Developing a theoretical framework.
+
+Based on your review of the literature, begin articulating the key theories, models, and conceptual frameworks that have informed research in your topic area. Synthesize this information to create a theoretical framework for your own study, showing how it fits into and builds upon existing knowledge.
+
+- Developing a conceptual framework
+
+Finally, develop a conceptual framework that connects the variables and concepts you'll be examining in your study to the broader theoretical framework. Determine the specific relationships between variables you'll investigate and the indicators you'll use to operationally define and measure those variables. Your conceptual framework provides a roadmap for your empirical research.
+
+## Reviewing the Selected Literature
+ 
+When reviewing the literature, it is important to note whether the knowledge relevant to your theoretical framework has been confirmed beyond doubt. Examine the theories put forward, any criticisms of these theories and their basis, the methodologies adopted in prior research (such as study design, sample size and characteristics, measurement procedures, etc.), and any criticisms of the methodologies.
+
+Evaluate to what extent the findings from existing research can be generalized to other situations. Notice where there are significant differences of opinion among researchers and assess the validity of these differences. Ascertain the areas in which little or nothing is known – the gaps that exist in the current body of knowledge. This will help identify opportunities for your own research to fill in some of these gaps.
+
+## Developing a Theoretical Framework
+
+Literature pertinent to your study may deal with two types of information:
+
+1. Universal
+2. Specific (i.e. local trends or a specific program)
+
+In writing about such information you should start with the general information, gradually narrowing it down to the specific.
+
+Whereas the theoretical framework consists of the theories or issues in which your study is embedded, the conceptual framework describes the aspects you selected from the theoretical framework to become the basis of your enquiry.
+
+The conceptual framework is focused on indicators to measure the research study.
+
+## Major Concerns
+
+When conducting a literature review, there are some key best practices to keep in mind:
+
+### Using the Right Keywords
+
+- Identify the key terms that describe your research topic, question, and scope. These will be critical for searching databases and catalogs effectively.
+- Consider synonyms, alternate spellings, and related concepts. Cast a wide initial net.
+- Refine keywords as the search evolves and you determine which terms yield the most relevant results.
+
+### Narrowing the Search
+
+- Use filters available in search tools and databases to narrow results by date, methodology, peer review status, etc.
+- Identify seminal studies and theoretical frameworks most relevant to your question. Then search citations and works that cite those sources.
+- As themes and gaps emerge, search for studies that relate specifically to those areas.
+
+**Example way of searching**
+
+<center> <img src="modules\literature review.png" alt="literature review" width="70%" /> </center>
+
+<br>
+
+### Using the Library Effectively
+
+- Work with librarians to understand advanced search techniques for databases and tools specific to your field.
+- Use interlibrary loan services to access hard-to-find resources.
+- Evaluate not just abstracts but full studies to determine relevance and quality.
+- Organize sources and notes systematically from the start. Tracking key information will save time later.
 
 </exercise>
 
-<exercise id="8" title="IR Research Method: Focus Group">   
+<exercise id="8" title="IR Research Method: Participant Observation and Focus Group">   
 
+# Observation
 
+## What is Observation?
 
+Observation is a systematic method of watching, recording, analyzing and interpreting people's behavior, events, or phenomena in their natural setting. The observer does not interact or intervene in what is being observed, but simply watches without influencing the situation or outcomes.
+
+Key aspects of observation as a scientific research method include:
+
+- Used to collect primary data about behavior and events in natural settings
+- Involves looking and listening carefully and systematically
+- Recording what is observed through field notes, audio/video, photographs etc.
+- Observing actual behavior versus self-reported behavior
+- Non-interference from the observer
+- Participants may be unaware they are being observed
+- Allows studying of individuals and groups
+- Can investigate subtle or complex behaviors or interactions
+- Useful for exploratory and inductive research
+- Provides contextual, descriptive data
+
+The goal of observation research is to generate insights into behaviors, relationships, patterns, and the contexts in which they occur, by watching people and events unfold naturally.
+
+# Why Observe?
+
+- Observation allows the researcher to study people in their 'natural setting' without their behavior being influenced by the presence of a researcher.
+- Observational data usually consists of detailed information about particular groups or situations. This kind of data can 'fill out' and provide a deeper, richer, understanding than survey work which tends to produce less detailed information about a larger number of people.
+- Some methods only allow for the study of one individual at a time. Observation enables the research to study groups of people together, that is, it allows for the study of interaction between the members of a group.
+
+# Types of Observation
+
+- Participant Observation
+
+Participant observation involves the researcher directly participating in the activities of the group being studied. The researcher becomes an active member in the culture or context being observed in order to gain greater insight and understanding.
+
+- Non-participant Observation
+
+In non-participant observation, the researcher remains separate from the group under study and does not actively participate in their activities. The researcher observes from an outsider's perspective without direct involvement with the participants.
+
+- Direct Observation
+
+In direct observation, the researcher directly watches and records the behaviors and actions of individuals or groups in real-time. This allows for data collection as the events and behaviors unfold, without relying on after-the-fact recollections or perceptions.
+
+- Indirect Observation
+
+Indirect observations are observations in which the researcher uses existing records instead of making first-hand observations. The researcher does not collect data in real-time but relies on past recordings and documentation for the data.
+
+- Controlled Observation
+
+In controlled observation, the researcher manipulates the environment and controls the factors that are allowed to influence the variables under study. This is done so that extraneous or confounding variables can be controlled and not influence the variables under observation.
+
+- Uncontrolled Observation
+
+Uncontrolled observation occurs when the researcher does not manipulate or control the situation that is being observed. The researcher merely observes behavior, events, phenomena, etc. as they naturally occur in real-world settings. There are no controls introduced or manipulation of variables by the researcher.
+
+# Focus Group
+
+## What is a Focus Group?
+
+A focus group is a small group discussion guided by a facilitator. The facilitator asks questions to elicit perspectives from the participants on the topic being studied.
+
+Focus groups typically consist of 6 to 10 participants who share similar characteristics relevant to the topic. The facilitator uses a discussion guide to lead the group through the questions, allowing the conversation to flow naturally.
+
+The main advantage of focus groups is the opportunity to gather in-depth insights through group discussion. Participants can share ideas and perspectives that may not emerge in individual interviews. The group dynamic often sparks new thoughts as participants hear others' comments.
+
+Focus groups serve various research purposes, including:
+
+- Gaining background information or context on a topic
+- Generating research hypotheses based on participants' attitudes and beliefs
+- Evaluating reactions to an idea, event or proposal
+- Interpreting previously obtained quantitative results through qualitative insights
+
+# Why/When Might You Use Them?
+
+- When you want to generate discussion/debate about your research question/ area of research, but you do not think that individual responses will yield the kinds of data you want.
+- When you think that individuals may not be able to provide adequate responses on your research question.
+- When people may not feel ‘safe’ talking in individual interviews.
+- Other reasons are the same as all qualitative methods (lack of research in area, wanting to develop theory,  wanting to develop a quantitative stage of study, etc.)
+
+# Basic Use of Focus Group
+
+- Problem identification
+- Planning
+- Implementation
+- Assessment
 
 </exercise>
 
 <exercise id="9" title="IR Research Method: Survey">   
 
+# Types of Research Data Collection Techniques
 
+<center> <img src="modules\types of data collection.png" alt="Worldwide Web" width="70%" /> </center>
 
+Qualitative and quantitative methods are the two main approaches to conducting research. Qualitative research explores attitudes, behaviors, and experiences through methods like interviews and focus groups. It attempts to get an in-depth understanding of a problem. Quantitative research gathers numerical data and generalizes it across groups. It seeks to establish statistical relationships between variables.
 
-</exercise>
+Two common qualitative research methods are interviews and surveys. Interviews involve having conversations with research participants to explore their perspectives on a program or topic. Surveys gather self-reported data from research participants through a standardized set of questions. 
 
-<exercise id="10" title="IR Research Method: Ethnography">   
+# Interview as Qualitative Research Method
 
+## What is Interview?
 
+An interview is a qualitative research method that involves verbally asking questions and hearing the responses from the interviewee. There are several formats interviews can take:
 
-</exercise>
+- **Structured Interview**: The interviewer asks a predetermined set of questions in a set order. There is no deviation from the script.
+- **Semi-Structured Interview**: The interviewer has preset questions to ask, but can change the order and wording of questions as needed. Questions can also be omitted or added spontaneously during the interview.
+- **Unstructured Interview**: The interviewer has a general topic but allows the conversation to flow naturally, with questions emerging from the dialogue.
 
-<exercise id="11" title="Constructing Hypothesis">   
+Interviews can take place in person, over the phone, one-on-one, or in a group setting. The interviewer records the responses from the interviewee(s) to gather qualitative data.
 
+## When it is Useful?
 
+Interviews are a great qualitative research method when you want to deeply understand an individual's perspective and experience. Here are some of the key reasons interviews are useful:
 
-</exercise>
+- **Hear the respondent's voice and perspective**: Interviews allow you to hear the participant's authentic voice and perspective in their own words. This provides rich qualitative data directly from the source.
+- **Delve into depth on a topic or experience**: Interviews are ideal for digging deeper into a topic or experience. The back-and-forth nature allows the interviewer to probe with follow-up questions and gain more detailed insights.
+- **Personal interaction**: Interviews involve personal interaction between the interviewer and respondent. This can help build rapport and make the respondent feel more comfortable sharing information.
+- **Reading/writing skills are limited**: Interviews are helpful when working with populations who may have limited literacy or difficulty with reading/writing extensive information. The verbal nature makes participation more accessible.
 
-<exercise id="12" title="Integrating Theory">  
+## Advantages of Interview
 
+Interviews allow for deep, free responses from participants. Unlike surveys with limited answer choices, interviews let participants explain their thoughts, feelings, and experiences in detail, in their own words. The interviewer has the flexibility to adapt questions based on the responses and flow of the conversation.
 
+Interviews also allow the interviewer to observe tone, gestures, and body language that elucidate the verbal response. Seeing facial expressions and posture provides contextual clues to better understand the meaning behind the words.
 
-</exercise>
+Additionally, the interviewer can probe for more information, clarify any confusion, and ask follow-up questions to get fuller, richer responses. By having a dialogue rather than just asking a set of questions, the interviewer can ensure thorough understanding and explore interesting tangents that arise.
 
-<exercise id="13" title="Reading And Writing International Relations Research">   
+## Disadvantages of Interview
 
+- Interviews are time-consuming and costly. Each interview requires scheduling time with the respondent, conducting the interview itself, and then analyzing the results. For large sample sizes, this process becomes impractical.
+- Interviews are impractical for collecting data from large numbers of people. The one-on-one nature makes it difficult to reach a large sample.
+- Interviews require skilled interviewers to build rapport, ask good questions, and probe for deeper insights. Not all researchers have these specialized skills.
+- It can be challenging to summarize and make sense of many different interview responses. Unlike quantitative data, the qualitative data from interviews is harder to analyze.
+- Possible biases can influence the interview process, including biases from the interviewer, the respondent, and the interview situation itself. The interaction is not as standardized and anonymous as a survey.
 
+# Survey as Research Method
+
+A survey is a research method used to collect data from a sample of people by asking them structured questions and recording their responses. The researcher selects a sample of respondents that is representative of some larger population. The researcher then administers a standardized questionnaire to the sample to gather data.
+
+Surveys are commonly used in the social sciences for descriptive, explanatory, and exploratory research. Descriptive surveys aim to accurately portray the characteristics of a population. Explanatory surveys look at relationships between variables and aim to explain or predict phenomena. Exploratory surveys are conducted to gain preliminary insight into a topic when there are few existing theories or models.
+
+Surveys allow researchers to gather large amounts of data from many people in a short amount of time. They are versatile methods that can be conducted through various modes, like online, paper, interviews, etc. By standardizing survey questions and sampling procedures, researchers can make inferences and generalizations about the larger population based on the survey data. Surveys are an important tool for gathering quantitative data about people's behaviors, attitudes, beliefs, and opinions on a topic.
+
+## Guidelines for Asking Questions
+
+When creating survey questions, follow these guidelines:
+
+- **Choose Appropriate Question Forms** - Use open-ended, close-ended, scale, or ranking questions as needed. Open-ended questions allow free responses while close-ended have set responses. Scales rate intensity and ranking orders preferences. Choose forms suited to the data needed.
+- **Make Items Clear** - Questions should be simple, specific, and easily understood. Avoid vague terms and be as precise as possible.
+- **Avoid Double-Barreled Questions** - Ask only one question at a time. Combining two questions distorts results.
+- **Respondents must be competent to answer the item** - Make sure the respondent is qualified to provide meaningful answers. Don't ask questions outside their expertise.
+- **Respondents Must Be Willing to Answer** - Avoid sensitive or uncomfortable questions that deter responses. Keep it professional.
+- **Questions Should Be Relevant** - Each question should clearly help address the overall research aims. No superfluous questions.
+- **Short Items Are Best** - Keep questions concise. Long winding questions are harder to understand.
+
+## Questionnaire Construction
+
+The format of a questionnaire can have an impact on the quality of the data that is collected. Using a clear and logical format is important to ensure respondents understand the questions and answer appropriately.
+
+When a questionnaire contains contingency questions, where the respondent is directed to a different part of the survey based on a previous answer, the format needs to be very clear. Without a clear format, respondents may not follow the skip patterns correctly or answer questions that were not intended for them.
+
+A matrix format can be an efficient way to present multiple questions that share the same response categories. Displaying questions in a table with common answers across the top allows respondents to easily see the options for multiple questions at once.
+
+The order that questions are presented in a survey can influence the way respondents answer. Questions early on may frame how they interpret and respond to subsequent questions. Sensitivity of questions is also a factor in order design. Grouping similar topics together is a common approach to creating a logical flow for respondents.
+
+Pretesting the questionnaire with a small group of respondents is important to identify any issues with format, order or clarity before administering to the full study sample. A clear, logical format and order is crucial for collecting high quality data from survey respondents.
 
 </exercise>
 
