@@ -5,7 +5,7 @@ description:
 prev: /chapter7
 next: /chapter9
 type: chapter
-id: 6
+id: 8
 ---
 
 <exercise id="1" title="Social Research Method">   
