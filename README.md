@@ -107,6 +107,12 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 - Schimmelfennig, F. (1998). Nato enlargement: A constructivist explanation. Security Studies, 8(2–3), 198–234. https://doi.org/10.1080/09636419808429378
 - Spindler, M. (2013). International Relations: A Self-Study Guide to Theory (1st ed.). Verlag Barbara Budrich. https://doi.org/10.2307/j.ctvdf09vd
 
+**International Relations Research Methods**
+
+- Kumar, R. (2019). Research methodology: A step-by-step guide for beginners (Fifth edition). SAGE.
+- Roselle, L., & Spray, S. L. (2020). Research and writing in international relations (Third Edition). Routledge.
+
+**Diplomacy and International Politics**
 
 ---
 

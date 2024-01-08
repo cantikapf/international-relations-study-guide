@@ -5,7 +5,7 @@ description:
 prev: null
 next: /chapter2
 type: chapter
-id: 2
+id: 1
 ---
 
 <exercise id="1" title="Study Of International Relations">

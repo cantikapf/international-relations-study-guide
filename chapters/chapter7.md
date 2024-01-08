@@ -5,7 +5,7 @@ description:
 prev: /chapter6
 next: /chapter8
 type: chapter
-id: 6
+id: 7
 ---
 
 <exercise id="1" title="Introduction To International Relations Theories">  
