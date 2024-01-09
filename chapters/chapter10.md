@@ -1,11 +1,11 @@
 ---
-title: 'Chapter 10: Indonesia’s Foreign Policy'
+title: 'Chapter 10: Indonesia Foreign Policy'
 description:
-  'Analyze the factors influencing foreign policy decisions, including the role of public opinion, media, and international politics, and evaluate the evolution of Indonesia's foreign policy under different administrations.'
+  'Analyze the factors influencing foreign policy decisions, including the role of public opinion, media, and international politics, and evaluate the evolution of Indonesia foreign policy under different administrations.'
 prev: /chapter9
 next: /chapter11
 type: chapter
-id: 10
+id: "10"
 ---
 
 <exercise id="1" title="Introduction To Foreign Policy Analysis And Foreign Policy In IR">      
@@ -15,7 +15,6 @@ id: 10
 </exercise>
 
 <exercise id="2" title="Level Of Analysis In Foreign Policy Decision Making">      
-
 
 
 </exercise>
