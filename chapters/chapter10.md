@@ -5,7 +5,7 @@ description:
 prev: /chapter9
 next: /chapter11
 type: chapter
-id: "10"
+id: 10
 ---
 
 <exercise id="1" title="Introduction To Foreign Policy Analysis And Foreign Policy In IR">      
