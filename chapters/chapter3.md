@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 3: Modern World History'
+title: '1.3. Modern World History'
 description:
   'Understand the key events and movements that shaped the modern world from the Renaissance to the end of the Cold War, including the significance of the Thirty Years War, Peace of Westphalia, and major geopolitical shifts.'
 prev: /chapter2
