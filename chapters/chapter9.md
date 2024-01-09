@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 9: Diplomacy and International Politics'
+title: '3.2. Diplomacy and International Politics'
 description:
   'Gain a comprehensive understanding of diplomacy and international politics, including the history, actors, tools, and issues involved in the field, in order to effectively navigate and engage in global diplomatic efforts.'
 prev: /chapter8

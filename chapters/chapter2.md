@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 2: Introduction to Social Science'
+title: '1.2. Introduction to Social Science'
 description:
   'Understand the historical development of social science and its pivotal role in shaping our understanding of society and human behavior.'
 prev: /chapter1

@@ -1,5 +1,5 @@
 ---
-title: 'Chapter 8: International Relations Research Methods'
+title: '3.1. International Relations Research Methods'
 description:
   'Develop a comprehensive understanding of the international relations research process, encompassing the formulation of research questions, design of research in international relations, literature review, application of qualitative and quantitative research methods, and effective integration of theory in reading and writing international relations research.'
 prev: /chapter7

@@ -1,8 +1,8 @@
 ---
-title: 'Chapter 1: Introuduction to International Relations'
+title: '1.1. Introuduction to International Relations'
 description:
   'This chapter will cover the basic of International Relations study that will be important for later course'
-prev: null
+prev: /chapter20
 next: /chapter2
 type: chapter
 id: 1
