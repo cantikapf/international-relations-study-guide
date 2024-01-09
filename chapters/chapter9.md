@@ -131,6 +131,10 @@ In the 15th century, diplomacy became a true profession as the Italian city-stat
 
 The establishment of permanent embassies was a major development, creating continuous diplomatic relationships instead of ad hoc missions. The Italian states shared linguistic and cultural similarities that enabled open communication. Ambassadors were typically appointed from the educated elite who were familiar with Latin and could converse easily. The small distances between city-states also facilitated more frequent contact and correspondence between envoys.
 
+<center> <img src="modules\new and old diplomacy.jpg" alt="new and old diplomacy" width="80%" /> </center>
+
+<br>
+
 # Ministry of Foreign Affairs
 
 The administration of foreign relations initially did not have a special department devoted to it. Foreign relations were managed on an ad hoc basis. However, as resident missions abroad and the need for continuous negotiation grew, countries saw the need to establish a permanent institution devoted to foreign affairs.
