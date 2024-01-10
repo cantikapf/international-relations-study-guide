@@ -122,6 +122,8 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 - Hermann, M. G. (2005). Assessing leadership style: Trait analysis. The Psychological Assessment of Political Leaders, 7(2), 178–212.
 - Mintz, A., & DeRouen, K. R. (2010). Understanding foreign policy decision making. Cambridge University Press.
 
+**Contemporary Issues In Global Politics**
+
 ---
 
 <p xmlns:cc="http://creativecommons.org/ns#" >This work is licensed under <a href="http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-SA 4.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/sa.svg?ref=chooser-v1"></a></p>
