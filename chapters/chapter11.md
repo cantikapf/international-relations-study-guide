@@ -1,7 +1,7 @@
 ---
 title: '3.3. Contemporary Issues In Global Politics'
 description:
-  'Ipsum ut id nisi nisi veniam sint ipsum labore commodo proident.'
+  'Critically analyze and evaluate contemporary global issues, such as cyber warfare, failed state interventions, and the politics of multiculturalism'
 prev: /chapter9
 next: /chapter11
 type: chapter
