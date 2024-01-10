@@ -118,6 +118,9 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 
 **Foreign Policy Analysis in International Relations**
 
+- Dugis, V. (2007). Analysing Foreign Policy. Masyarakat, Kebudayaan, Politik, 20, 41–52.
+- Hermann, M. G. (2005). Assessing leadership style: Trait analysis. The Psychological Assessment of Political Leaders, 7(2), 178–212.
+- Mintz, A., & DeRouen, K. R. (2010). Understanding foreign policy decision making. Cambridge University Press.
 
 ---
 
