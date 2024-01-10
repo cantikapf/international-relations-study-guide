@@ -116,7 +116,7 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 
 - Cooper, A. F., Heine, J., & Thakur, R. (Eds.). (2013). The Oxford handbook of modern diplomacy. Oxford University Press.
 
-**Indonesia Foreign Policy**
+**Foreign Policy Analysis in International Relations**
 
 
 ---
