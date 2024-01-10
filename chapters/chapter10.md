@@ -55,7 +55,10 @@ Some key aspects of foreign policy analysis include:
 
 <center> <img src="modules\paradigmatic of FPA.png" alt="paradigmatic of FPA" width="70%" /> </center>
 
-<br>
+
+</exercise>
+
+<exercise id="2" title="Level Of Analysis In Foreign Policy Decision Making">      
 
 # Level of Analysis in Foreign Policy Decision Making
 
@@ -130,11 +133,6 @@ The Vietnam War presents an interesting case study for foreign policy analysis. 
 - Domino theory exaggerated risks of communism spreading across Southeast Asia.
 
 In summary, the complex foreign policy decisions during the Vietnam War can be analyzed through the three levels of FPA theory. Cognitive biases, individual beliefs, organizational factors, and the Cold War system all combined to shape the tragic decisions made by U.S. leaders.
-
-
-</exercise>
-
-<exercise id="2" title="Level Of Analysis In Foreign Policy Decision Making">      
 
 
 </exercise>
