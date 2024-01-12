@@ -129,6 +129,17 @@ Gross, L. (1948). The Peace of Westphalia, 1648–1948. American Journal of Inte
 
 **Foreign Policy Of Developed Countries**
 
+- Breuning, M. (2007). Foreign policy analysis: A comparative introduction (1st ed). Palgrave Macmillan.
+- Freire, M. R. (2019). The quest for status: How the interplay of power, ideas, and regime security shapes Russia’s policy in the post-Soviet space. International Politics, 56(6), 795–809. https://doi.org/10.1057/s41311-018-0164-y
+- Garner, K. (2013). Gender and foreign policy in the Clinton administration. FirstForumPress, a division of Lynne Rienner Publishers, Inc.
+- Gaskarth, J., & Oppermann, K. (2021). Clashing Traditions: German Foreign Policy in a New Era. International Studies Perspectives, 22(1), 84–105. https://doi.org/10.1093/isp/ekz017
+- Gyngell, A., & Wesley, M. (2003). Making Australian Foreign Policy (1st ed.). Cambridge University Press. https://doi.org/10.1017/CBO9780511755873
+- Jentleson, B. W. (2010). American foreign policy: The dynamics of choice in the 21st century (4th ed). W.W. Norton & Co.
+- Keukeleire, S., & MacNaughtan, J. (2008). The foreign policy of the European union. Palgrave Macmillan.
+- MCGLEN, N. E. S., MEREDITH REID. (2020). WOMEN IN FOREIGN POLICY: The insiders. ROUTLEDGE.
+- Zakowski, K., Bochorodycz, B., & Socha, M. (2018). Japan’s Foreign Policy Making. Springer International Publishing. https://doi.org/10.1007/978-3-319-63094-6
+
+**International Law Issues And International Dispute Settlement**
 
 ---
 
