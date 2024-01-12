@@ -524,7 +524,7 @@ In the neo-neo debate, neo-liberalists express greater faith in international in
 
 <exercise id="5" title="Marxism In International Relations">
 
-<ceenter> <iframe width="560" height="315" src="https://www.youtube.com/embed/3K0UU3YB0UA?si=z1yqzvJikCGuosIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
+<center> <iframe width="560" height="315" src="https://www.youtube.com/embed/3K0UU3YB0UA?si=z1yqzvJikCGuosIO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> </center>
 Notes: I suggest to watch this video first before reading the topic 😁
 
 <br>
