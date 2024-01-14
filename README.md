@@ -1,3 +1,5 @@
+ARCHIVED. MOVED TO [NEW REPO](https://github.com/cantikapf/IR-chapterbook)
+
 # ✨ International Relations Study Guide ✨
 
 This is a free online course on International Relations topics. Use it as your study guide. **It's not intended to become references**. Perfect for self-study. If you want to read more about International Relations topics, I recommend to visit [E-International Relations](https://www.e-ir.info/) website.
