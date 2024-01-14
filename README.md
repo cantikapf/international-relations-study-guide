@@ -1,4 +1,4 @@
-ARCHIVED. MOVED TO [NEW REPO](https://github.com/cantikapf/IR-chapterbook)
+# **ARCHIVED. MOVED TO [NEW REPO](https://github.com/cantikapf/IR-chapterbook)**
 
 # ✨ International Relations Study Guide ✨
 
