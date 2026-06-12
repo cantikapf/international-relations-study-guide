@@ -1,6 +1,6 @@
 import React from 'react'
 
-import classes from '../styles/typography.module.sass'
+import * as classes from '../styles/typography.module.sass'
 
 export const H3 = ({ children }) => <h3 className={classes.h3}>{children}</h3>
 export const Hr = () => <hr className={classes.hr} />

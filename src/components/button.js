@@ -2,7 +2,7 @@ import React from 'react'
 import classNames from 'classnames'
 
 import IconCheck from '../../static/icon_check.svg'
-import classes from '../styles/button.module.sass'
+import * as classes from '../styles/button.module.sass'
 
 export const Button = ({ Component = 'button', children, onClick, variant, small, className }) => {
     const buttonClassNames = classNames(classes.root, className, {

@@ -4,7 +4,7 @@ import Marked from 'reveal.js/plugin/markdown/marked.js'
 import classNames from 'classnames'
 
 import '../styles/reveal.css'
-import classes from '../styles/slides.module.sass'
+import * as classes from '../styles/slides.module.sass'
 
 function getFiles({ allMarkdownRemark }) {
     return Object.assign(

@@ -7,7 +7,7 @@ import { H3 } from './typography'
 import Logo from '../../static/logo.svg'
 
 import '../styles/index.sass'
-import classes from '../styles/layout.module.sass'
+import * as classes from '../styles/layout.module.sass'
 
 const Layout = ({ isHome, title, description, children }) => {
     return (

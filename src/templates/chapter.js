@@ -7,7 +7,7 @@ import { ChapterContext } from '../context'
 import Layout from '../components/layout'
 import { Button } from '../components/button'
 
-import classes from '../styles/chapter.module.sass'
+import * as classes from '../styles/chapter.module.sass'
 
 const Template = ({ data }) => {
     const { markdownRemark, site } = data

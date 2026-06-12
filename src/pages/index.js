@@ -5,7 +5,7 @@ import Layout from '../components/layout'
 import { Link } from '../components/link'
 import Logo from '../../static/logo.svg'
 
-import classes from '../styles/index.module.sass'
+import * as classes from '../styles/index.module.sass'
 
 export default ({ data }) => {
     const siteMetadata = data.site.siteMetadata

@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import { Link as GatsbyLink } from 'gatsby'
 import classNames from 'classnames'
 
-import classes from '../styles/link.module.sass'
+import * as classes from '../styles/link.module.sass'
 
 export const Link = ({ children, to, href, onClick, variant, hidden, className, ...other }) => {
     const dest = to || href

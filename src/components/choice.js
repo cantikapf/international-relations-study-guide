@@ -2,7 +2,7 @@ import React, { useState, useCallback } from 'react'
 import classNames from 'classnames'
 
 import { Button } from './button'
-import classes from '../styles/choice.module.sass'
+import * as classes from '../styles/choice.module.sass'
 
 const Choice = ({ id = '0', children = [] }) => {
     const [selected, setSelected] = useState(null)

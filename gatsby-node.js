@@ -75,3 +75,17 @@ exports.createPages = ({ actions, graphql }) => {
         })
     })
 }
+
+exports.onCreateWebpackConfig = ({ actions }) => {
+    actions.setWebpackConfig({
+        resolve: {
+            fallback: {
+                crypto: require.resolve('crypto-browserify'),
+                stream: require.resolve('stream-browserify'),
+                path: require.resolve('path-browserify'),
+                url: require.resolve('url/'),
+                util: require.resolve('util/'),
+            },
+        },
+    })
+}

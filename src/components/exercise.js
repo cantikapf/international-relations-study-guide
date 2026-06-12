@@ -4,7 +4,7 @@ import classNames from 'classnames'
 import { Button, CompleteButton } from './button'
 import { ChapterContext } from '../context'
 import IconSlides from '../../static/icon_slides.svg'
-import classes from '../styles/exercise.module.sass'
+import * as classes from '../styles/exercise.module.sass'
 
 const Exercise = ({ id, title, type, children }) => {
     const excRef = useRef()

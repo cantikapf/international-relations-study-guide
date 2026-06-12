@@ -4,7 +4,7 @@ import { StaticQuery, graphql } from 'gatsby'
 import { Hint } from './hint'
 import { Button } from './button'
 
-import classes from '../styles/code.module.sass'
+import * as classes from '../styles/code.module.sass'
 
 function getFiles({ allCode }) {
     return Object.assign(

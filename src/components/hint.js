@@ -1,6 +1,6 @@
 import React, { useState, useCallback } from 'react'
 
-import classes from '../styles/hint.module.sass'
+import * as classes from '../styles/hint.module.sass'
 
 export const Hint = ({ expanded = false, actions = [], children }) => {
     const [isExpanded, setIsExpanded] = useState(expanded)
