@@ -1,5 +1,6 @@
 import React, { useState, useCallback } from 'react'
 import classNames from 'classnames'
+import useLocalStorage from '@illinois/react-use-local-storage'
 
 import { Button } from './button'
 import * as classes from '../styles/choice.module.sass'
@@ -7,8 +8,20 @@ import * as classes from '../styles/choice.module.sass'
 const Choice = ({ id = '0', children = [] }) => {
     const [selected, setSelected] = useState(null)
     const [answer, setAnswer] = useState(null)
-    const handleAnswer = useCallback(() => setAnswer(selected), [selected])
+    const [isCompleted, setIsCompleted] = useLocalStorage(`quiz_${id}_completed`, false)
+    
     const options = children.filter(child => child !== '\n')
+
+    const handleAnswer = useCallback(() => {
+        setAnswer(selected)
+        if (selected !== null) {
+            const isCorrect = !!options[selected]?.props?.correct
+            if (isCorrect && !isCompleted) {
+                setIsCompleted(true)
+                window.dispatchEvent(new Event('quiz_completed'))
+            }
+        }
+    }, [selected, options, isCompleted, setIsCompleted])
     return (
         <>
             {options.map(({ key, props }, i) => (

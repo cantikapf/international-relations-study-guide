@@ -1,0 +1,51 @@
+.matrixContainer
+  margin: 3rem 0
+  padding: 2rem
+  background: rgba(255, 255, 255, 0.05)
+  border-radius: 16px
+  backdrop-filter: blur(10px)
+  border: 1px solid rgba(255, 255, 255, 0.1)
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.1)
+  color: #fff
+
+  .title
+    margin-bottom: 2rem
+    text-align: center
+    font-size: 1.8rem
+    background: linear-gradient(90deg, #4facfe 0%, #00f2fe 100%)
+    -webkit-background-clip: text
+    -webkit-text-fill-color: transparent
+    font-weight: 700
+
+.tableWrapper
+  overflow-x: auto
+
+.theoryTable
+  width: 100%
+  border-collapse: collapse
+  font-size: 0.95rem
+  
+  th, td
+    padding: 1.2rem
+    text-align: left
+    border-bottom: 1px solid rgba(255, 255, 255, 0.05)
+
+  th
+    background: rgba(255, 255, 255, 0.03)
+    font-weight: 600
+    color: #4facfe
+    text-transform: uppercase
+    letter-spacing: 0.05em
+    border-bottom: 2px solid rgba(79, 172, 254, 0.3)
+
+  tbody tr
+    transition: all 0.3s ease
+    &:hover
+      background: rgba(255, 255, 255, 0.05)
+      transform: translateY(-2px)
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1)
+
+  td
+    strong
+      color: #fff
+      font-size: 1.05rem

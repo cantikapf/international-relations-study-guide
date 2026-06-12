@@ -5,6 +5,7 @@ import SEO from './seo'
 import { Link } from './link'
 import { H3 } from './typography'
 import Logo from '../../static/logo.svg'
+import Progress from './progress'
 
 import '../styles/index.sass'
 import * as classes from '../styles/layout.module.sass'
@@ -35,11 +36,19 @@ const Layout = ({ isHome, title, description, children }) => {
                         <SEO title={title} description={description} />
                         <main className={classes.root}>
                             {!isHome && (
-                                <h1 className={classes.logo}>
-                                    <Link hidden to="/">
-                                        <Logo width={150} height={54} aria-label={meta.title} />
-                                    </Link>
-                                </h1>
+                                <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center' }}>
+                                    <h1 className={classes.logo}>
+                                        <Link hidden to="/">
+                                            <Logo width={150} height={54} aria-label={meta.title} />
+                                        </Link>
+                                    </h1>
+                                    <Progress />
+                                </div>
+                            )}
+                            {isHome && (
+                                <div style={{ display: 'flex', justifyContent: 'flex-end', padding: '1rem 2rem 0 0' }}>
+                                    <Progress />
+                                </div>
                             )}
                             <div className={classes.content}>
                                 {(title || description) && (
