@@ -7,13 +7,17 @@ module.exports = {
         {
             resolve: `gatsby-plugin-sass`,
             options: {
-                indentedSyntax: true,
+                sassOptions: {
+                    indentedSyntax: true,
+                },
                 postCssPlugins: [autoprefixer()],
                 cssLoaderOptions: {
-                    localIdentName:
-                        process.env.NODE_ENV == 'development'
-                            ? '[name]-[local]-[hash:8]'
-                            : '[hash:8]',
+                    modules: {
+                        localIdentName:
+                            process.env.NODE_ENV == 'development'
+                                ? '[name]-[local]-[hash:base64:8]'
+                                : '[hash:base64:8]',
+                    }
                 },
             },
         },
