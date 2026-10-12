@@ -56,6 +56,8 @@ Conceptually, realist and liberal frameworks provide contrasting lenses to analy
 
 Ultimately, the structure and processes of the international system provide the global stage upon which world politics unfolds. Understanding the dynamics of this decentralized, anarchical realm is crucial for explaining the behavior of states and non-state actors in international relations.
 
+<geomap />
+
 ## State Actors   
 
 The primary actors in International Relations are sovereign states and governments. Understanding the modern state involves recognizing the criteria of statehood outlined in the Montevideo Convention in 1933, which specifies four key elements - a permanent population, a defined territory, a government, and the capacity to enter into relations with other states.
@@ -102,6 +104,8 @@ International Relations draws upon diverse theoretical frameworks to analyze and
 
 **Critical Theories** - Critical theories challenge mainstream IR perspectives, unpacking underlying assumptions and power dynamics. Marxism focuses on economic exploitation, imperialism, and class conflict. Post-colonialism exposes colonial legacies and Western dominance in knowledge production. Feminism highlights the marginalization of gender issues and perspectives. Critical theories provide alternative lenses to traditional paradigms.
 
+<theory-matrix />
+
 ## Origins and Growth
 
 The academic field of International Relations emerged in the early 20th century, though the study of relations between states and peoples has roots dating back millennia. As a modern discipline, International Relations has its origins after World War I with the establishment of the first IR professorship at the University of Wales, Aberystwyth in 1919 by Alfred Zimmern. 
@@ -123,6 +127,14 @@ This field provides crucial insights into the forces that shape global dynamics,
 In today's increasingly interconnected world, understanding International Relations is more vital than ever. This discipline sheds light on the complex interplay of domestic pressures, transnational actors, interstate relations, and global forces. It equips scholars, policymakers, and global citizens with the knowledge needed to tackle pressing issues that transcend national borders. 
 
 By delving deep into the origins, growth, and key concepts of International Relations, we gain a richer appreciation of the dynamics that impact our global community. The future progress of humanity requires grappling with diverse international challenges through an interdisciplinary, academically rigorous approach. International Relations provides the analytical foundation and intellectual tools needed to work toward greater cooperation, stability, and justice in our global society.
+
+### Knowledge Check
+<choice id="chap1_q1">
+    <opt>International Relations focuses exclusively on superficial current events.</opt>
+    <opt correct>International Relations is the systematic study of complex interconnections between nations, states, institutions, and people.</opt>
+    <opt>The international system is ruled by a central global authority.</opt>
+    <opt>Multinational Corporations (MNCs) have no influence in global dynamics.</opt>
+</choice>
 
 </exercise>
 
